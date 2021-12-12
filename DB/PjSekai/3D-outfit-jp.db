@@ -1,29 +1,29 @@
 {
   "cos0001": {
-    "name": "\u30b9\u30af\u30fc\u30eb\u30ed\u30c3\u30af",
+    "name": "スクールロック",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0001_body",
           "id": "99/0001"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0001_body_01",
           "id": "99/0001"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0001_body_02",
           "id": "99/0001"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0001_body_03",
           "id": "99/0001"
@@ -32,30 +32,30 @@
     }
   },
   "cos0002": {
-    "name": "\u30b9\u30af\u30fc\u30eb\u30ed\u30c3\u30af",
+    "name": "スクールロック",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0002_body",
           "id": "99/0002"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0002_body_01",
           "id": "99/0002"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0002_body_02",
           "id": "99/0002"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0002_body_03",
           "id": "99/0002"
@@ -64,30 +64,30 @@
     }
   },
   "cos0003": {
-    "name": "\u30e1\u30ed\u30c7\u30a3\u30af\u30ed\u30fc\u30d0\u30fc",
+    "name": "メロディクローバー",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0003_body",
           "id": "99/0003"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0003_body_01",
           "id": "99/0003"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0003_body_02",
           "id": "99/0003"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0003_body_03",
           "id": "99/0003"
@@ -96,30 +96,30 @@
     }
   },
   "cos0004": {
-    "name": "\u30e1\u30ed\u30c7\u30a3\u30af\u30ed\u30fc\u30d0\u30fc",
+    "name": "メロディクローバー",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0004_body",
           "id": "99/0004"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0004_body_01",
           "id": "99/0004"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0004_body_02",
           "id": "99/0004"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0004_body_03",
           "id": "99/0004"
@@ -128,30 +128,30 @@
     }
   },
   "cos0005": {
-    "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d1\u30fc\u30ab\u30fc",
+    "name": "ストリートパーカー",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0005_body",
           "id": "99/0009"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0005_body_01",
           "id": "99/0009"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0005_body_02",
           "id": "99/0009"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0005_body_03",
           "id": "99/0009"
@@ -160,30 +160,30 @@
     }
   },
   "cos0006": {
-    "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d1\u30fc\u30ab\u30fc",
+    "name": "ストリートパーカー",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0006_body",
           "id": "99/0010"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0006_body_01",
           "id": "99/0010"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0006_body_02",
           "id": "99/0010"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0006_body_03",
           "id": "99/0010"
@@ -192,30 +192,30 @@
     }
   },
   "cos0007": {
-    "name": "\u30ef\u30f3\u30c0\u30fc\u30de\u30b8\u30c3\u30af",
+    "name": "ワンダーマジック",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0007_body",
           "id": "99/0005"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0007_body_01",
           "id": "99/0005"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0007_body_02",
           "id": "99/0005"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0007_body_03",
           "id": "99/0005"
@@ -224,30 +224,30 @@
     }
   },
   "cos0008": {
-    "name": "\u30ef\u30f3\u30c0\u30fc\u30de\u30b8\u30c3\u30af",
+    "name": "ワンダーマジック",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0008_body",
           "id": "99/0006"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0008_body_01",
           "id": "99/0006"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0008_body_02",
           "id": "99/0006"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0008_body_03",
           "id": "99/0006"
@@ -256,30 +256,30 @@
     }
   },
   "cos0009": {
-    "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+    "name": "ミッドナイトフィクション",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0009_body",
           "id": "99/0007"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0009_body_01",
           "id": "99/0007"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0009_body_02",
           "id": "99/0007"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0009_body_03",
           "id": "99/0007"
@@ -288,30 +288,30 @@
     }
   },
   "cos0010": {
-    "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+    "name": "ミッドナイトフィクション",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0010_body",
           "id": "99/0008"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0010_body_01",
           "id": "99/0008"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0010_body_02",
           "id": "99/0008"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0010_body_03",
           "id": "99/0008"
@@ -320,12 +320,12 @@
     }
   },
   "cos0011": {
-    "name": "\u30b5\u30d6\u30ab\u30eb\u30dc\u30fc\u30a4\u30b9\u30bf\u30a4\u30eb(\u30ec\u30c7\u30a3\u30fc\u30b9)",
+    "name": "サブカルボーイスタイル(レディース)",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0011_head",
           "id": "0019/a03"
@@ -335,19 +335,19 @@
           "id": "99/0018"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0011_body_01",
           "id": "99/0018"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0011_body_02",
           "id": "99/0018"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0011_body_03",
           "id": "99/0018"
@@ -356,12 +356,12 @@
     }
   },
   "cos0012": {
-    "name": "\u30b5\u30d6\u30ab\u30eb\u30dc\u30fc\u30a4\u30b9\u30bf\u30a4\u30eb(\u30e1\u30f3\u30ba)",
+    "name": "サブカルボーイスタイル(メンズ)",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0012_head",
           "id": "0019/a03"
@@ -371,19 +371,19 @@
           "id": "99/0019"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0012_body_01",
           "id": "99/0019"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0012_body_02",
           "id": "99/0019"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0012_body_03",
           "id": "99/0019"
@@ -392,12 +392,12 @@
     }
   },
   "cos0013": {
-    "name": "\u30ed\u30c3\u30ad\u30f3\u30d6\u30eb\u30fc\u30c1\u30a7\u30c3\u30af",
+    "name": "ロッキンブルーチェック",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0013_body",
           "id": "24/0005"
@@ -406,12 +406,12 @@
     }
   },
   "cos0014": {
-    "name": "\u30ad\u30e9\u30ad\u30e9\u30d5\u30ea\u30eb",
+    "name": "キラキラフリル",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0014_head",
           "id": "22/0003"
@@ -424,12 +424,12 @@
     }
   },
   "cos0015": {
-    "name": "\u3084\u3093\u3061\u3083\u30b9\u30c8\u30ea\u30fc\u30c8",
+    "name": "やんちゃストリート",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0015_body",
           "id": "23/0004"
@@ -438,12 +438,12 @@
     }
   },
   "cos0016": {
-    "name": "\u30cf\u30f3\u30b5\u30e0\u30ec\u30c7\u30a3",
+    "name": "ハンサムレディ",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0016_head",
           "id": "25/0004"
@@ -456,12 +456,12 @@
     }
   },
   "cos0017": {
-    "name": "\u30ef\u30f3\u30c0\u30d5\u30eb\u30b3\u30fc\u30c8",
+    "name": "ワンダフルコート",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0017_body",
           "id": "26/0002"
@@ -470,12 +470,12 @@
     }
   },
   "cos0018": {
-    "name": "\u30bb\u30ab\u30a4\u306e\u304a\u8336\u4f1a\u30c9\u30ec\u30b9",
+    "name": "セカイのお茶会ドレス",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0018_head",
           "id": "0011/a01"
@@ -485,19 +485,19 @@
           "id": "99/0011"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0018_body_01",
           "id": "99/0011"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0018_body_02",
           "id": "99/0011"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0018_body_03",
           "id": "99/0011"
@@ -506,30 +506,30 @@
     }
   },
   "cos0019": {
-    "name": "\u30bb\u30ab\u30a4\u306e\u304a\u8336\u4f1a\u30b9\u30fc\u30c4",
+    "name": "セカイのお茶会スーツ",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0019_body",
           "id": "99/0015"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0019_body_01",
           "id": "99/0015"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0019_body_02",
           "id": "99/0015"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0019_body_03",
           "id": "99/0015"
@@ -538,12 +538,12 @@
     }
   },
   "cos0020": {
-    "name": "\u30d5\u30e9\u30ef\u30fc\u30d5\u30a7\u30a2\u30ea\u30fc",
+    "name": "フラワーフェアリー",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0020_head",
           "id": "0012/a02"
@@ -553,7 +553,7 @@
           "id": "99/0012"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0020_head_01",
           "id": "0012/a02"
@@ -563,7 +563,7 @@
           "id": "99/0012"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0020_head_02",
           "id": "0012/a02"
@@ -573,7 +573,7 @@
           "id": "99/0012"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0020_head_03",
           "id": "0012/a02"
@@ -591,7 +591,7 @@
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0021_head",
           "id": "0014/a02"
@@ -601,7 +601,7 @@
           "id": "99/0014"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0021_head_01",
           "id": "0014/a02"
@@ -611,7 +611,7 @@
           "id": "99/0014"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0021_head_02",
           "id": "0014/a02"
@@ -621,7 +621,7 @@
           "id": "99/0014"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0021_head_03",
           "id": "0014/a02"
@@ -639,7 +639,7 @@
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0022_head",
           "id": "0017/a02"
@@ -649,7 +649,7 @@
           "id": "99/0017"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0022_head_01",
           "id": "0017/a02"
@@ -659,7 +659,7 @@
           "id": "99/0017"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0022_head_02",
           "id": "0017/a02"
@@ -669,7 +669,7 @@
           "id": "99/0017"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0022_head_03",
           "id": "0017/a02"
@@ -682,12 +682,12 @@
     }
   },
   "cos0023": {
-    "name": "\u661f\u591c\u306e\u7d2c",
+    "name": "星夜の紬",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0023_head",
           "id": "0020/a03"
@@ -697,7 +697,7 @@
           "id": "99/0020"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0023_head_01",
           "id": "0020/a03"
@@ -707,7 +707,7 @@
           "id": "99/0020"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0023_head_02",
           "id": "0020/a03"
@@ -717,7 +717,7 @@
           "id": "99/0020"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0023_head_03",
           "id": "0020/a03"
@@ -730,30 +730,30 @@
     }
   },
   "cos0024": {
-    "name": "\u661f\u591c\u306e\u7d2c",
+    "name": "星夜の紬",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0024_body",
           "id": "99/0025"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0024_body_01",
           "id": "99/0025"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0024_body_02",
           "id": "99/0025"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0024_body_03",
           "id": "99/0025"
@@ -767,7 +767,7 @@
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0025_head",
           "id": "0026/a05"
@@ -777,7 +777,7 @@
           "id": "99/0026"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0025_head_01",
           "id": "0026/a05"
@@ -787,7 +787,7 @@
           "id": "99/0026"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0025_head_02",
           "id": "0026/a05"
@@ -797,7 +797,7 @@
           "id": "99/0026"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0025_head_03",
           "id": "0026/a05"
@@ -815,7 +815,7 @@
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0026_head",
           "id": "0027/a05"
@@ -825,19 +825,19 @@
           "id": "99/0027"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0026_body_01",
           "id": "99/0027"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0026_body_02",
           "id": "99/0027"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0026_body_03",
           "id": "99/0027"
@@ -846,12 +846,12 @@
     }
   },
   "cos0027": {
-    "name": "\u30cf\u30c3\u30d4\u30fc\u3072\u3088\u3053\u30ef\u30f3\u30d4",
+    "name": "ハッピーひよこワンピ",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0027_head",
           "id": "0031/a03"
@@ -864,12 +864,12 @@
     }
   },
   "cos0028": {
-    "name": "\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8",
+    "name": "スターライト",
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0028_body",
           "id": "99/0032"
@@ -878,12 +878,12 @@
     }
   },
   "cos0029": {
-    "name": "\u30c8\u30a5\u30a4\u30f3\u30af\u30eb\u30b5\u30a6\u30f3\u30c9",
+    "name": "トゥインクルサウンド",
     "gender": "Female",
     "rarity": "Rare",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "unique_head": {
           "bundle": "cos0029_unique_head",
           "id": "01/0016"
@@ -893,19 +893,19 @@
           "id": "99/0016"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0029_body_01",
           "id": "99/0016"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0029_body_02",
           "id": "99/0016"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0029_body_03",
           "id": "99/0016"
@@ -914,12 +914,12 @@
     }
   },
   "cos0030": {
-    "name": "\u30db\u30c3\u30d4\u30f3\u30b0\u30d5\u30ea\u30eb",
+    "name": "ホッピングフリル",
     "gender": "Female",
     "rarity": "Rare",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0030_head",
           "id": "0028/a02"
@@ -933,7 +933,7 @@
           "id": "28/0028"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0030_head_01",
           "id": "0028/a02"
@@ -947,7 +947,7 @@
           "id": "28/0028a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0030_head_02",
           "id": "0028/a02"
@@ -961,7 +961,7 @@
           "id": "28/0028b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0030_head_03",
           "id": "0028/a02"
@@ -978,12 +978,12 @@
     }
   },
   "cos0031": {
-    "name": "\u30a2\u30af\u30c6\u30a3\u30d6\u30b9\u30c8\u30ea\u30fc\u30c8",
+    "name": "アクティブストリート",
     "gender": "Female",
     "rarity": "Rare",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0031_body",
           "id": "99/0029"
@@ -993,7 +993,7 @@
           "id": "22/0029"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0031_body_01",
           "id": "99/0029"
@@ -1003,7 +1003,7 @@
           "id": "22/0029a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0031_body_02",
           "id": "99/0029"
@@ -1013,7 +1013,7 @@
           "id": "22/0029b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0031_body_03",
           "id": "99/0029"
@@ -1026,30 +1026,30 @@
     }
   },
   "cos0032": {
-    "name": "\u30ea\u30c8\u30eb\u30b9\u30bf\u30fc",
+    "name": "リトルスター",
     "gender": "Male",
     "rarity": "Rare",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0032_body",
           "id": "99/0030"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0032_body_01",
           "id": "99/0030"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0032_body_02",
           "id": "99/0030"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0032_body_03",
           "id": "99/0030"
@@ -1058,12 +1058,12 @@
     }
   },
   "cos0033": {
-    "name": "\u5ba4\u54b2\u304d\u30e1\u30ed\u30c7\u30a3\u30fc",
+    "name": "室咲きメロディー",
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0033_head",
           "id": "0013/a01"
@@ -1073,7 +1073,7 @@
           "id": "99/0013"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0033_head_01",
           "id": "0013/a01"
@@ -1083,7 +1083,7 @@
           "id": "99/0013"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0033_head_02",
           "id": "0013/a01"
@@ -1093,7 +1093,7 @@
           "id": "99/0013"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0033_head_03",
           "id": "0013/a01"
@@ -1106,12 +1106,12 @@
     }
   },
   "cos0034": {
-    "name": "\u30b9\u30c6\u30e9\u30ed\u30c3\u30af",
+    "name": "ステラロック",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1602223200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0034_head",
           "id": "0034/a03"
@@ -1125,7 +1125,7 @@
           "id": "02/0034"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0034_head_01",
           "id": "0034/a03"
@@ -1139,7 +1139,7 @@
           "id": "02/0034a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0034_head_02",
           "id": "0034/a03"
@@ -1153,7 +1153,7 @@
           "id": "02/0034b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0034_head_03",
           "id": "0034/a03"
@@ -1170,12 +1170,12 @@
     }
   },
   "cos0035": {
-    "name": "\u30b9\u30c6\u30e9\u30af\u30ed\u30fc\u30d0\u30fc",
+    "name": "ステラクローバー",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1602223200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0035_head",
           "id": "0033/a02"
@@ -1189,7 +1189,7 @@
           "id": "24/0033"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0035_head_01",
           "id": "0033/a02"
@@ -1203,7 +1203,7 @@
           "id": "24/0033a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0035_head_02",
           "id": "0033/a02"
@@ -1217,7 +1217,7 @@
           "id": "24/0033b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0035_head_03",
           "id": "0033/a02"
@@ -1234,12 +1234,12 @@
     }
   },
   "cos0036": {
-    "name": "\u30de\u30b9\u30ab\u30ec\u30fc\u30c9\u30c9\u30fc\u30eb",
+    "name": "マスカレードドール",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1603173600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0036_head",
           "id": "0035/a02"
@@ -1253,7 +1253,7 @@
           "id": "18/0035"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0036_head_01",
           "id": "0035/a02"
@@ -1267,7 +1267,7 @@
           "id": "18/0035a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0036_head_02",
           "id": "0035/a02"
@@ -1281,7 +1281,7 @@
           "id": "18/0035b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0036_head_03",
           "id": "0035/a02"
@@ -1298,12 +1298,12 @@
     }
   },
   "cos0037": {
-    "name": "\u30de\u30b9\u30af\u30fb\u30aa\u30d6\u30fb\u30c6\u30a3\u30a2",
+    "name": "マスク・オブ・ティア",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1603173600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0037_head",
           "id": "0036/a03"
@@ -1317,7 +1317,7 @@
           "id": "17/0036"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0037_head_01",
           "id": "0036/a03"
@@ -1331,7 +1331,7 @@
           "id": "17/0036a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0037_head_02",
           "id": "0036/a03"
@@ -1345,7 +1345,7 @@
           "id": "17/0036b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0037_head_03",
           "id": "0036/a03"
@@ -1362,12 +1362,12 @@
     }
   },
   "cos0038": {
-    "name": "\u30de\u30b9\u30bf\u30fc\u30c6\u30fc\u30eb\u30b3\u30fc\u30c8",
+    "name": "マスターテールコート",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1604124000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0038_body",
           "id": "99/0044"
@@ -1377,7 +1377,7 @@
           "id": "16/0044"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0038_body_01",
           "id": "99/0044"
@@ -1387,7 +1387,7 @@
           "id": "16/0044a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0038_body_02",
           "id": "99/0044"
@@ -1397,7 +1397,7 @@
           "id": "16/0044b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0038_body_03",
           "id": "99/0044"
@@ -1410,30 +1410,30 @@
     }
   },
   "cos0039": {
-    "name": "\u30b6\u30fb\u30d5\u30a9\u30fc\u30de\u30eb\u30b9\u30bf\u30fc",
+    "name": "ザ・フォーマルスター",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1604124000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0039_body",
           "id": "99/0043"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0039_body_01",
           "id": "99/0043"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0039_body_02",
           "id": "99/0043"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0039_body_03",
           "id": "99/0043"
@@ -1442,12 +1442,12 @@
     }
   },
   "cos0040": {
-    "name": "\u3082\u3053\u3082\u3053\u30b9\u30ce\u30fc\u30b3\u30fc\u30c8(\u30ec\u30c7\u30a3\u30fc\u30b9)",
+    "name": "もこもこスノーコート(レディース)",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1604156400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0040_head",
           "id": "0052/a02"
@@ -1457,7 +1457,7 @@
           "id": "99/0052"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0040_head_01",
           "id": "0052/a02"
@@ -1467,7 +1467,7 @@
           "id": "99/0052"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0040_head_02",
           "id": "0052/a02"
@@ -1477,7 +1477,7 @@
           "id": "99/0052"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0040_head_03",
           "id": "0052/a02"
@@ -1490,12 +1490,12 @@
     }
   },
   "cos0041": {
-    "name": "\u3082\u3053\u3082\u3053\u30b9\u30ce\u30fc\u30b3\u30fc\u30c8(\u30e1\u30f3\u30ba)",
+    "name": "もこもこスノーコート(メンズ)",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1604156400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0041_head",
           "id": "0051/a05"
@@ -1505,7 +1505,7 @@
           "id": "99/0051"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0041_head_01",
           "id": "0051/a05"
@@ -1515,7 +1515,7 @@
           "id": "99/0051"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0041_head_02",
           "id": "0051/a05"
@@ -1525,7 +1525,7 @@
           "id": "99/0051"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0041_head_03",
           "id": "0051/a05"
@@ -1538,12 +1538,12 @@
     }
   },
   "cos0042": {
-    "name": "\u30b9\u30de\u30a4\u30ea\u30fc\u30a8\u30fc\u30eb",
+    "name": "スマイリーエール",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1604901600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0042_body",
           "id": "99/0047"
@@ -1553,7 +1553,7 @@
           "id": "14/0047"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0042_body_01",
           "id": "99/0047"
@@ -1563,7 +1563,7 @@
           "id": "14/0047a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0042_body_02",
           "id": "99/0047"
@@ -1573,7 +1573,7 @@
           "id": "14/0047b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0042_body_03",
           "id": "99/0047"
@@ -1586,12 +1586,12 @@
     }
   },
   "cos0043": {
-    "name": "\u30a8\u30f3\u30b8\u30e7\u30a4\u30d5\u30e9\u30c3\u30b0",
+    "name": "エンジョイフラッグ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1604901600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0043_body",
           "id": "99/0048"
@@ -1601,7 +1601,7 @@
           "id": "06/0048"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0043_body_01",
           "id": "99/0048"
@@ -1611,7 +1611,7 @@
           "id": "06/0048a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0043_body_02",
           "id": "99/0048"
@@ -1621,7 +1621,7 @@
           "id": "06/0048b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0043_body_03",
           "id": "99/0048"
@@ -1630,12 +1630,12 @@
     }
   },
   "cos0044": {
-    "name": "\u30ec\u30a4\u30f3\u30dc\u30fc\u30cf\u30fc\u30c8",
+    "name": "レインボーハート",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1605765600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0044_head",
           "id": "0039/a03"
@@ -1649,7 +1649,7 @@
           "id": "07/0039"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0044_head_01",
           "id": "0039/a03"
@@ -1663,7 +1663,7 @@
           "id": "07/0039a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0044_head_02",
           "id": "0039/a03"
@@ -1677,7 +1677,7 @@
           "id": "07/0039b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0044_head_03",
           "id": "0039/a03"
@@ -1694,12 +1694,12 @@
     }
   },
   "cos0045": {
-    "name": "\u30b8\u30e3\u30f3\u30d4\u30f3\u30b0\u30cf\u30fc\u30c8",
+    "name": "ジャンピングハート",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1605765600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0045_head",
           "id": "0040/a03"
@@ -1713,7 +1713,7 @@
           "id": "05/0040"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0045_head_01",
           "id": "0040/a03"
@@ -1727,7 +1727,7 @@
           "id": "05/0040a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0045_head_02",
           "id": "0040/a03"
@@ -1741,7 +1741,7 @@
           "id": "05/0040b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0045_head_03",
           "id": "0040/a03"
@@ -1758,30 +1758,30 @@
     }
   },
   "cos0046": {
-    "name": "\u30b5\u30f3\u30e9\u30a4\u30ba\u30b7\u30c6\u30a3",
+    "name": "サンライズシティ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1606716000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0046_body",
           "id": "99/0038"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0046_body_01",
           "id": "99/0038"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0046_body_02",
           "id": "99/0038"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0046_body_03",
           "id": "99/0038"
@@ -1790,12 +1790,12 @@
     }
   },
   "cos0047": {
-    "name": "\u30af\u30ea\u30a2\u30e9\u30a4\u30c8\u30b7\u30c6\u30a3",
+    "name": "クリアライトシティ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1606716000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0047_body",
           "id": "99/0037"
@@ -1805,7 +1805,7 @@
           "id": "09/0037"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0047_body_01",
           "id": "99/0037"
@@ -1815,7 +1815,7 @@
           "id": "09/0037a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0047_body_02",
           "id": "99/0037"
@@ -1825,7 +1825,7 @@
           "id": "09/0037b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0047_body_03",
           "id": "99/0037"
@@ -1838,12 +1838,12 @@
     }
   },
   "cos0048": {
-    "name": "\u30af\u30e9\u30b7\u30ab\u30eb\u30e1\u30a4\u30c9",
+    "name": "クラシカルメイド",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1606748400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0048_head",
           "id": "0041/a05"
@@ -1853,7 +1853,7 @@
           "id": "99/0041"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0048_head_01",
           "id": "0041/a05"
@@ -1863,7 +1863,7 @@
           "id": "99/0041"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0048_head_02",
           "id": "0041/a05"
@@ -1873,7 +1873,7 @@
           "id": "99/0041"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0048_head_03",
           "id": "0041/a05"
@@ -1886,30 +1886,30 @@
     }
   },
   "cos0049": {
-    "name": "\u30af\u30e9\u30b7\u30ab\u30eb\u30d0\u30c8\u30e9\u30fc",
+    "name": "クラシカルバトラー",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1606748400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0049_body",
           "id": "99/0042"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0049_body_01",
           "id": "99/0042"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0049_body_02",
           "id": "99/0042"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0049_body_03",
           "id": "99/0042"
@@ -1918,12 +1918,12 @@
     }
   },
   "cos0050": {
-    "name": "\u30ab\u30ef\u30a4\u30a4\u2606\u30d5\u30a7\u30b9\uff34\u30b7\u30e3\u30c4",
+    "name": "カワイイ☆フェスＴシャツ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1607580000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0050_body",
           "id": "99/0049"
@@ -1933,7 +1933,7 @@
           "id": "20/0049"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0050_body_01",
           "id": "99/0049"
@@ -1943,7 +1943,7 @@
           "id": "20/0049a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0050_body_02",
           "id": "99/0049"
@@ -1953,7 +1953,7 @@
           "id": "20/0049b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0050_body_03",
           "id": "99/0049"
@@ -1966,30 +1966,30 @@
     }
   },
   "cos0051": {
-    "name": "\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb\u30d6\u30ec\u30b6\u30fc",
+    "name": "フェスティバルブレザー",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1607580000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0051_body",
           "id": "99/0050"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0051_body_01",
           "id": "99/0050"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0051_body_02",
           "id": "99/0050"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0051_body_03",
           "id": "99/0050"
@@ -1998,12 +1998,12 @@
     }
   },
   "cos0052": {
-    "name": "\u30ef\u30f3\u30c0\u30fc\u2606\u30b5\u30f3\u30bf\u30ac\u30fc\u30eb",
+    "name": "ワンダー☆サンタガール",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1608444000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0052_head",
           "id": "0057/a04"
@@ -2017,7 +2017,7 @@
           "id": "15/0057"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0052_head_01",
           "id": "0057/a04"
@@ -2031,7 +2031,7 @@
           "id": "15/0057a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0052_head_02",
           "id": "0057/a04"
@@ -2045,7 +2045,7 @@
           "id": "15/0057b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0052_head_03",
           "id": "0057/a04"
@@ -2062,12 +2062,12 @@
     }
   },
   "cos0053": {
-    "name": "\u30d7\u30ec\u30bc\u30f3\u30c8\u30fb\u30d5\u30a9\u30fc\u30fb\u30e6\u30fc\uff01",
+    "name": "プレゼント・フォー・ユー！",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1608444000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0053_head",
           "id": "0058/a04"
@@ -2081,7 +2081,7 @@
           "id": "30/0058"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0053_head_01",
           "id": "0058/a04"
@@ -2095,7 +2095,7 @@
           "id": "30/0058a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0053_head_02",
           "id": "0058/a04"
@@ -2109,7 +2109,7 @@
           "id": "30/0058b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0053_head_03",
           "id": "0058/a04"
@@ -2126,12 +2126,12 @@
     }
   },
   "cos0054": {
-    "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30b9\u30bf\u30a4\u30eb\u26062020(\u30ec\u30c7\u30a3\u30fc\u30b9)",
+    "name": "クリスマススタイル☆2020(レディース)",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1608735600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0054_head",
           "id": "0064/a05"
@@ -2141,7 +2141,7 @@
           "id": "99/0064"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0054_head_01",
           "id": "0064/a05"
@@ -2151,7 +2151,7 @@
           "id": "99/0064"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0054_head_02",
           "id": "0064/a05"
@@ -2161,7 +2161,7 @@
           "id": "99/0064"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0054_head_03",
           "id": "0064/a05"
@@ -2174,12 +2174,12 @@
     }
   },
   "cos0055": {
-    "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30b9\u30bf\u30a4\u30eb\u26062020(\u30e1\u30f3\u30ba)",
+    "name": "クリスマススタイル☆2020(メンズ)",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1608735600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0055_head",
           "id": "0063/a02"
@@ -2189,7 +2189,7 @@
           "id": "99/0063"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0055_head_01",
           "id": "0063/a02"
@@ -2199,7 +2199,7 @@
           "id": "99/0063"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0055_head_02",
           "id": "0063/a02"
@@ -2209,7 +2209,7 @@
           "id": "99/0063"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0055_head_03",
           "id": "0063/a02"
@@ -2222,12 +2222,12 @@
     }
   },
   "cos0056": {
-    "name": "\u8b39\u8cc0\u306e\u88c5\u3044(\u30ec\u30c7\u30a3\u30fc\u30b9)",
+    "name": "謹賀の装い(レディース)",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1609426800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0056_head",
           "id": "0066/a02"
@@ -2237,7 +2237,7 @@
           "id": "99/0066"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0056_head_01",
           "id": "0066/a02"
@@ -2247,7 +2247,7 @@
           "id": "99/0066"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0056_head_02",
           "id": "0066/a02"
@@ -2257,7 +2257,7 @@
           "id": "99/0066"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0056_head_03",
           "id": "0066/a02"
@@ -2270,12 +2270,12 @@
     }
   },
   "cos0057": {
-    "name": "\u8b39\u8cc0\u306e\u88c5\u3044(\u30e1\u30f3\u30ba)",
+    "name": "謹賀の装い(メンズ)",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1609426800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0057_head",
           "id": "0065/a05"
@@ -2285,7 +2285,7 @@
           "id": "99/0065"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0057_head_01",
           "id": "0065/a05"
@@ -2295,7 +2295,7 @@
           "id": "99/0065"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0057_head_02",
           "id": "0065/a05"
@@ -2305,7 +2305,7 @@
           "id": "99/0065"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0057_head_03",
           "id": "0065/a05"
@@ -2318,12 +2318,12 @@
     }
   },
   "cos0058": {
-    "name": "\u30e2\u30fc\u30e2\u30fc\u2606\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc(\u30ec\u30c7\u30a3\u30fc\u30b9)",
+    "name": "モーモー☆ニューイヤー(レディース)",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1609426800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0058_head",
           "id": "0070/a05"
@@ -2333,7 +2333,7 @@
           "id": "99/0070"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0058_head_01",
           "id": "0070/a05"
@@ -2343,7 +2343,7 @@
           "id": "99/0070"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0058_head_02",
           "id": "0070/a05"
@@ -2353,7 +2353,7 @@
           "id": "99/0070"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0058_head_03",
           "id": "0070/a05"
@@ -2366,12 +2366,12 @@
     }
   },
   "cos0059": {
-    "name": "\u30e2\u30fc\u30e2\u30fc\u2606\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc(\u30e1\u30f3\u30ba)",
+    "name": "モーモー☆ニューイヤー(メンズ)",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1609426800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0059_head",
           "id": "0069/a05"
@@ -2381,7 +2381,7 @@
           "id": "99/0069"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0059_head_01",
           "id": "0069/a05"
@@ -2391,7 +2391,7 @@
           "id": "99/0069"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0059_head_02",
           "id": "0069/a05"
@@ -2401,7 +2401,7 @@
           "id": "99/0069"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0059_head_03",
           "id": "0069/a05"
@@ -2414,12 +2414,12 @@
     }
   },
   "cos0060": {
-    "name": "\u30d5\u30a1\u30ca\u30c6\u30a3\u30c3\u30af\u30fb\u30cb\u30e5\u30fc\u30a4\u30e4\u30fc",
+    "name": "ファナティック・ニューイヤー",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1609394400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0060_body",
           "id": "99/0067"
@@ -2429,7 +2429,7 @@
           "id": "29/0067"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0060_body_01",
           "id": "99/0067"
@@ -2439,7 +2439,7 @@
           "id": "29/0067a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0060_body_02",
           "id": "99/0067"
@@ -2449,7 +2449,7 @@
           "id": "29/0067b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0060_body_03",
           "id": "99/0067"
@@ -2462,30 +2462,30 @@
     }
   },
   "cos0061": {
-    "name": "\u30b3\u30c8\u30d6\u30ad\u30fb\u30d5\u30fc\u30c7\u30a3",
+    "name": "コトブキ・フーディ",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1609394400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0061_body",
           "id": "99/0068"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0061_body_01",
           "id": "99/0068"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0061_body_02",
           "id": "99/0068"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0061_body_03",
           "id": "99/0068"
@@ -2494,12 +2494,12 @@
     }
   },
   "cos0062": {
-    "name": "\u30b9\u30c6\u30f3\u30c9\u30b0\u30e9\u30b9\u30fb\u30c6\u30f3\u30c0\u30fc\u30cf\u30fc\u30c8",
+    "name": "ステンドグラス・テンダーハート",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1610258400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0062_head",
           "id": "0059/a03"
@@ -2513,7 +2513,7 @@
           "id": "03/0059"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0062_head_01",
           "id": "0059/a03"
@@ -2527,7 +2527,7 @@
           "id": "03/0059a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0062_head_02",
           "id": "0059/a03"
@@ -2541,7 +2541,7 @@
           "id": "03/0059b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0062_head_03",
           "id": "0059/a03"
@@ -2558,12 +2558,12 @@
     }
   },
   "cos0063": {
-    "name": "\u30b9\u30c6\u30f3\u30c9\u30b0\u30e9\u30b9\u30fb\u30d6\u30ec\u30a4\u30d6\u30cf\u30fc\u30c8",
+    "name": "ステンドグラス・ブレイブハート",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1610258400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0063_body",
           "id": "99/0060"
@@ -2573,7 +2573,7 @@
           "id": "25/0060"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0063_body_01",
           "id": "99/0060"
@@ -2583,7 +2583,7 @@
           "id": "25/0060a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0063_body_02",
           "id": "99/0060"
@@ -2593,7 +2593,7 @@
           "id": "25/0060b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0063_body_03",
           "id": "99/0060"
@@ -2606,12 +2606,12 @@
     }
   },
   "cos0064": {
-    "name": "\u30c8\u30a5\u30eb\u30fc\u30b9\u30fb\u30d5\u30e9\u30ef\u30fc",
+    "name": "トゥルース・フラワー",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1611208800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0064_head",
           "id": "0055/a02"
@@ -2625,7 +2625,7 @@
           "id": "08/0055"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0064_head_01",
           "id": "0055/a02"
@@ -2639,7 +2639,7 @@
           "id": "08/0055a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0064_head_02",
           "id": "0055/a02"
@@ -2653,7 +2653,7 @@
           "id": "08/0055b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0064_head_03",
           "id": "0055/a02"
@@ -2670,12 +2670,12 @@
     }
   },
   "cos0065": {
-    "name": "\u30c7\u30a3\u30a2\u30fb\u30d5\u30e9\u30ef\u30fc",
+    "name": "ディア・フラワー",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1611208800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0065_head",
           "id": "0056/a02"
@@ -2689,7 +2689,7 @@
           "id": "24/0056"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0065_head_01",
           "id": "0056/a02"
@@ -2703,7 +2703,7 @@
           "id": "24/0056a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0065_head_02",
           "id": "0056/a02"
@@ -2717,7 +2717,7 @@
           "id": "24/0056b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0065_head_03",
           "id": "0056/a02"
@@ -2734,30 +2734,30 @@
     }
   },
   "cos0066": {
-    "name": "\u30af\u30e9\u30b7\u30c3\u30af\u30b3\u30fc\u30c7\u30a3\u30cd\u30fc\u30c8",
+    "name": "クラシックコーディネート",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1612072800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0066_body",
           "id": "99/0074"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0066_body_01",
           "id": "99/0074"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0066_body_02",
           "id": "99/0074"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0066_body_03",
           "id": "99/0074"
@@ -2766,30 +2766,30 @@
     }
   },
   "cos0067": {
-    "name": "\u30af\u30e9\u30b7\u30ab\u30eb\u30b8\u30e3\u30b1\u30c3\u30c8",
+    "name": "クラシカルジャケット",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1612072800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0067_body",
           "id": "99/0073"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0067_body_01",
           "id": "99/0073"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0067_body_02",
           "id": "99/0073"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0067_body_03",
           "id": "99/0073"
@@ -2798,12 +2798,12 @@
     }
   },
   "cos0068": {
-    "name": "\u30d9\u30ea\u30c1\u30e7\u30b3\u30d1\u30f3\u30b1\u30fc\u30ad",
+    "name": "ベリチョコパンケーキ",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1612105200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0068_head",
           "id": "0082/a02"
@@ -2813,7 +2813,7 @@
           "id": "99/0082"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0068_head_01",
           "id": "0082/a02"
@@ -2823,7 +2823,7 @@
           "id": "99/0082"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0068_head_02",
           "id": "0082/a02"
@@ -2833,7 +2833,7 @@
           "id": "99/0082"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0068_head_03",
           "id": "0082/a02"
@@ -2846,12 +2846,12 @@
     }
   },
   "cos0069": {
-    "name": "\u30d1\u30b9\u30c6\u30eb\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0",
+    "name": "パステルアイスクリーム",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1612105200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0069_head",
           "id": "0081/a02"
@@ -2861,7 +2861,7 @@
           "id": "99/0081"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0069_head_01",
           "id": "0081/a02"
@@ -2871,7 +2871,7 @@
           "id": "99/0081"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0069_head_02",
           "id": "0081/a02"
@@ -2881,7 +2881,7 @@
           "id": "99/0081"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0069_head_03",
           "id": "0081/a02"
@@ -2894,12 +2894,12 @@
     }
   },
   "cos0070": {
-    "name": "\u30ed\u30c3\u30ad\u30f3\u30fb\u30d3\u30fc\u30b9\u30c8",
+    "name": "ロッキン・ビースト",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1612850400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0070_body",
           "id": "99/0061"
@@ -2909,7 +2909,7 @@
           "id": "04/0061"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0070_body_01",
           "id": "99/0061"
@@ -2919,7 +2919,7 @@
           "id": "04/0061a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0070_body_02",
           "id": "99/0061"
@@ -2929,7 +2929,7 @@
           "id": "04/0061b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0070_body_03",
           "id": "99/0061"
@@ -2942,12 +2942,12 @@
     }
   },
   "cos0071": {
-    "name": "\u30ed\u30c3\u30ad\u30f3\u30fb\u30e2\u30d5\u30e2\u30d5",
+    "name": "ロッキン・モフモフ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1612850400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0071_body",
           "id": "99/0062"
@@ -2957,7 +2957,7 @@
           "id": "22/0062"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0071_body_01",
           "id": "99/0062"
@@ -2967,7 +2967,7 @@
           "id": "22/0062a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0071_body_02",
           "id": "99/0062"
@@ -2977,7 +2977,7 @@
           "id": "22/0062b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0071_body_03",
           "id": "99/0062"
@@ -2990,12 +2990,12 @@
     }
   },
   "cos0072": {
-    "name": "\u30ca\u30fc\u30b7\u30b5\u30b9\u30fb\u30da\u30a4\u30f3\u30bf\u30fc\u30c9\u30ec\u30b9",
+    "name": "ナーシサス・ペインタードレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1613628000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0072_head",
           "id": "0053/a03"
@@ -3009,19 +3009,19 @@
           "id": "19/0053"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0072_body_01",
           "id": "99/0053"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0072_body_02",
           "id": "99/0053"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0072_body_03",
           "id": "99/0053"
@@ -3030,12 +3030,12 @@
     }
   },
   "cos0073": {
-    "name": "\u30a2\u30f3\u30b7\u30e5\u30a2\u30fb\u30a8\u30d7\u30ed\u30f3\u30c9\u30ec\u30b9",
+    "name": "アンシュア・エプロンドレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1613628000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0073_head",
           "id": "0054/a04"
@@ -3049,19 +3049,19 @@
           "id": "18/0054"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0073_body_01",
           "id": "99/0054"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0073_body_02",
           "id": "99/0054"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0073_body_03",
           "id": "99/0054"
@@ -3070,12 +3070,12 @@
     }
   },
   "cos0074": {
-    "name": "\u30ad\u30e3\u30f3\u30c7\u30a3\u30db\u30a4\u30fc\u30eb",
+    "name": "キャンディホイール",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1614492000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0074_head",
           "id": "0095/a03"
@@ -3093,7 +3093,7 @@
           "id": "14/0095n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0074_head_01",
           "id": "0095/a03"
@@ -3107,7 +3107,7 @@
           "id": "14/0095a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0074_head_02",
           "id": "0095/a03"
@@ -3121,7 +3121,7 @@
           "id": "14/0095b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0074_head_03",
           "id": "0095/a03"
@@ -3138,12 +3138,12 @@
     }
   },
   "cos0075": {
-    "name": "\u30b3\u30fc\u30d2\u30fc\u30ab\u30c3\u30d7\u30d0\u30eb\u30fc\u30f3",
+    "name": "コーヒーカップバルーン",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1614492000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0075_head",
           "id": "0096/a03"
@@ -3161,7 +3161,7 @@
           "id": "15/0096n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0075_head_01",
           "id": "0096/a03"
@@ -3175,7 +3175,7 @@
           "id": "15/0096a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0075_head_02",
           "id": "0096/a03"
@@ -3189,7 +3189,7 @@
           "id": "15/0096b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0075_head_03",
           "id": "0096/a03"
@@ -3206,12 +3206,12 @@
     }
   },
   "cos0076": {
-    "name": "\u30aa\u30d7\u30c6\u30a3\u30de\u30a4\u30ba",
+    "name": "オプティマイズ",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1614524400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0076_head",
           "id": "0084/a02"
@@ -3221,7 +3221,7 @@
           "id": "99/0084"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0076_head_01",
           "id": "0084/a02"
@@ -3231,7 +3231,7 @@
           "id": "99/0084"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0076_head_02",
           "id": "0084/a02"
@@ -3241,7 +3241,7 @@
           "id": "99/0084"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0076_head_03",
           "id": "0084/a02"
@@ -3259,7 +3259,7 @@
     "rarity": "Normal",
     "time": 1614524400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0077_head",
           "id": "0083/a05"
@@ -3269,7 +3269,7 @@
           "id": "99/0083"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0077_head_01",
           "id": "0083/a05"
@@ -3279,7 +3279,7 @@
           "id": "99/0083"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0077_head_02",
           "id": "0083/a05"
@@ -3289,7 +3289,7 @@
           "id": "99/0083"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0077_head_03",
           "id": "0083/a05"
@@ -3302,12 +3302,12 @@
     }
   },
   "cos0078": {
-    "name": "\u3086\u3081\u304b\u308f\u30da\u30ac\u30b5\u30b9",
+    "name": "ゆめかわペガサス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1615356000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0078_head",
           "id": "0075/a05"
@@ -3321,7 +3321,7 @@
           "id": "02/0075"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0078_head_01",
           "id": "0075/a05"
@@ -3335,7 +3335,7 @@
           "id": "02/0075a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0078_head_02",
           "id": "0075/a05"
@@ -3349,7 +3349,7 @@
           "id": "02/0075b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0078_head_03",
           "id": "0075/a05"
@@ -3366,12 +3366,12 @@
     }
   },
   "cos0079": {
-    "name": "\u30c8\u30e9\u30c7\u30a3\u30b7\u30e7\u30ca\u30eb\u30fb\u30da\u30ac\u30b5\u30b9",
+    "name": "トラディショナル・ペガサス",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1615356000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0079_head",
           "id": "0099/a05"
@@ -3385,7 +3385,7 @@
           "id": "13/0099"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0079_head_01",
           "id": "0099/a05"
@@ -3399,7 +3399,7 @@
           "id": "13/0099a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0079_head_02",
           "id": "0099/a05"
@@ -3413,7 +3413,7 @@
           "id": "13/0099b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0079_head_03",
           "id": "0099/a05"
@@ -3430,12 +3430,12 @@
     }
   },
   "cos0080": {
-    "name": "\u30a8\u30f3\u30b8\u30a7\u30eb\u30aa\u30d6\u30db\u30fc\u30d7",
+    "name": "エンジェルオブホープ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1616392800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0080_head",
           "id": "0100/a02"
@@ -3449,7 +3449,7 @@
           "id": "05/0100"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0080_head_01",
           "id": "0100/a02"
@@ -3463,7 +3463,7 @@
           "id": "05/0100a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0080_head_02",
           "id": "0100/a02"
@@ -3477,7 +3477,7 @@
           "id": "05/0100b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0080_head_03",
           "id": "0100/a02"
@@ -3494,12 +3494,12 @@
     }
   },
   "cos0081": {
-    "name": "\u30a8\u30f3\u30b8\u30a7\u30eb\u30aa\u30d6\u30d3\u30ea\u30fc\u30d6",
+    "name": "エンジェルオブビリーブ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1616392800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0081_head",
           "id": "0101/a05"
@@ -3513,7 +3513,7 @@
           "id": "06/0101"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0081_head_01",
           "id": "0101/a05"
@@ -3527,7 +3527,7 @@
           "id": "06/0101a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0081_head_02",
           "id": "0101/a05"
@@ -3541,7 +3541,7 @@
           "id": "06/0101b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0081_head_03",
           "id": "0101/a05"
@@ -3558,12 +3558,12 @@
     }
   },
   "cos0082": {
-    "name": "\u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9(\u30ec\u30c7\u30a3\u30fc\u30b9)",
+    "name": "ハミングバード(レディース)",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1617202800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0082_head",
           "id": "0102/a05"
@@ -3573,7 +3573,7 @@
           "id": "99/0102"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0082_head_01",
           "id": "0102/a05"
@@ -3583,7 +3583,7 @@
           "id": "99/0102"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0082_head_02",
           "id": "0102/a05"
@@ -3593,7 +3593,7 @@
           "id": "99/0102"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0082_head_03",
           "id": "0102/a05"
@@ -3606,12 +3606,12 @@
     }
   },
   "cos0083": {
-    "name": "\u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9(\u30e1\u30f3\u30ba)",
+    "name": "ハミングバード(メンズ)",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1617202800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0083_head",
           "id": "0103/a05"
@@ -3621,7 +3621,7 @@
           "id": "99/0103"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0083_head_01",
           "id": "0103/a05"
@@ -3631,7 +3631,7 @@
           "id": "99/0103"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0083_head_02",
           "id": "0103/a05"
@@ -3641,7 +3641,7 @@
           "id": "99/0103"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0083_head_03",
           "id": "0103/a05"
@@ -3654,12 +3654,12 @@
     }
   },
   "cos0084": {
-    "name": "\u30ec\u30af\u30a4\u30a8\u30e0\u30ca\u30a4\u30c8",
+    "name": "レクイエムナイト",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1617084000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0084_head",
           "id": "0097/a03"
@@ -3677,7 +3677,7 @@
           "id": "17/0097n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0084_head_01",
           "id": "0097/a03"
@@ -3691,7 +3691,7 @@
           "id": "17/0097a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0084_head_02",
           "id": "0097/a03"
@@ -3705,7 +3705,7 @@
           "id": "17/0097b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0084_head_03",
           "id": "0097/a03"
@@ -3722,12 +3722,12 @@
     }
   },
   "cos0085": {
-    "name": "\u30e9\u30a4\u30d6\u30e9\u30ea\u30c9\u30ec\u30b9",
+    "name": "ライブラリドレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1617084000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0085_head",
           "id": "0098/a02"
@@ -3745,7 +3745,7 @@
           "id": "18/0098n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0085_head_01",
           "id": "0098/a02"
@@ -3759,7 +3759,7 @@
           "id": "18/0098a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0085_head_02",
           "id": "0098/a02"
@@ -3773,7 +3773,7 @@
           "id": "18/0098b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0085_head_03",
           "id": "0098/a02"
@@ -3790,12 +3790,12 @@
     }
   },
   "cos0086": {
-    "name": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30fb\u30d0\u30c3\u30c9",
+    "name": "ファントム・バッド",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1617202800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0086_head",
           "id": "0092/a05"
@@ -3805,7 +3805,7 @@
           "id": "99/0092"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0086_head_01",
           "id": "0092/a05"
@@ -3815,7 +3815,7 @@
           "id": "99/0092"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0086_head_02",
           "id": "0092/a05"
@@ -3825,7 +3825,7 @@
           "id": "99/0092"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0086_head_03",
           "id": "0092/a05"
@@ -3843,7 +3843,7 @@
     "rarity": "Normal",
     "time": 1617202800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0087_head",
           "id": "0091/a05"
@@ -3853,7 +3853,7 @@
           "id": "99/0091"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0087_head_01",
           "id": "0091/a05"
@@ -3863,7 +3863,7 @@
           "id": "99/0091"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0087_head_02",
           "id": "0091/a05"
@@ -3873,7 +3873,7 @@
           "id": "99/0091"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0087_head_03",
           "id": "0091/a05"
@@ -3886,12 +3886,12 @@
     }
   },
   "cos0088": {
-    "name": "\u30c1\u30a7\u30ea\u30fc\u30d4\u30f3\u30af\u30fb\u30ef\u30f3\u30d4\u30fc\u30b9",
+    "name": "チェリーピンク・ワンピース",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1617256800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "unique_head": {
           "bundle": "cos0088_unique_head",
           "id": "01/0086"
@@ -3905,7 +3905,7 @@
           "id": "0086/a02"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "unique_head": {
           "bundle": "cos0088_unique_head_01",
           "id": "01/0086a"
@@ -3919,7 +3919,7 @@
           "id": "0086/a02"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "unique_head": {
           "bundle": "cos0088_unique_head_02",
           "id": "01/0086b"
@@ -3933,7 +3933,7 @@
           "id": "0086/a02"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "unique_head": {
           "bundle": "cos0088_unique_head_03",
           "id": "01/0086c"
@@ -3950,12 +3950,12 @@
     }
   },
   "cos0089": {
-    "name": "\u30c1\u30a7\u30ea\u30fc\u30d4\u30f3\u30af\u30fb\u30af\u30ed\u30c3\u30b7\u30f3\u30b0",
+    "name": "チェリーピンク・クロッシング",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1617256800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0089_head",
           "id": "0085/a02"
@@ -3969,7 +3969,7 @@
           "id": "27/0085"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0089_head_01",
           "id": "0085/a02"
@@ -3983,7 +3983,7 @@
           "id": "27/0085a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0089_head_02",
           "id": "0085/a02"
@@ -3997,7 +3997,7 @@
           "id": "27/0085b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0089_head_03",
           "id": "0085/a02"
@@ -4014,12 +4014,12 @@
     }
   },
   "cos0090": {
-    "name": "\u30cf\u30a4\u30c9\u30fb\u30af\u30ea\u30ce\u30ea\u30f3",
+    "name": "ハイド・クリノリン",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1618120800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0090_head",
           "id": "0094/a04"
@@ -4033,7 +4033,7 @@
           "id": "20/0094"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0090_head_01",
           "id": "0094/a04"
@@ -4047,7 +4047,7 @@
           "id": "20/0094a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0090_head_02",
           "id": "0094/a04"
@@ -4061,7 +4061,7 @@
           "id": "20/0094b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0090_head_03",
           "id": "0094/a04"
@@ -4078,12 +4078,12 @@
     }
   },
   "cos0091": {
-    "name": "\u30cd\u30b9\u30ec\u30fb\u30af\u30ea\u30ce\u30ea\u30f3",
+    "name": "ネスレ・クリノリン",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1618120800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0091_head",
           "id": "0093/a04"
@@ -4097,7 +4097,7 @@
           "id": "25/0093"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0091_head_01",
           "id": "0093/a04"
@@ -4111,7 +4111,7 @@
           "id": "25/0093a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0091_head_02",
           "id": "0093/a04"
@@ -4125,7 +4125,7 @@
           "id": "25/0093b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0091_head_03",
           "id": "0093/a04"
@@ -4142,12 +4142,12 @@
     }
   },
   "cos0092": {
-    "name": "\u30c9\u30ea\u30fc\u30e0\u30c1\u30a7\u30a4\u30b5\u30fc",
+    "name": "ドリームチェイサー",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1618984800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0092_head",
           "id": "0109/a04"
@@ -4161,7 +4161,7 @@
           "id": "04/0109"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0092_head_01",
           "id": "0109/a04"
@@ -4175,7 +4175,7 @@
           "id": "04/0109a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0092_head_02",
           "id": "0109/a04"
@@ -4189,7 +4189,7 @@
           "id": "04/0109b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0092_head_03",
           "id": "0109/a04"
@@ -4206,12 +4206,12 @@
     }
   },
   "cos0093": {
-    "name": "\u30c9\u30ea\u30fc\u30e0\u30e1\u30a4\u30ab\u30fc",
+    "name": "ドリームメイカー",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1618984800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0093_head",
           "id": "0108/a04"
@@ -4225,7 +4225,7 @@
           "id": "03/0108"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0093_head_01",
           "id": "0108/a04"
@@ -4239,7 +4239,7 @@
           "id": "03/0108a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0093_head_02",
           "id": "0108/a04"
@@ -4253,7 +4253,7 @@
           "id": "03/0108b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0093_head_03",
           "id": "0108/a04"
@@ -4270,12 +4270,12 @@
     }
   },
   "cos0094": {
-    "name": "\u30d3\u30d3\u30c3\u30c9\u30bd\u30a6\u30eb",
+    "name": "ビビッドソウル",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1619762400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "unique_head": {
           "bundle": "cos0094_unique_head",
           "id": "11/0107"
@@ -4289,19 +4289,19 @@
           "id": "11/0107n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0094_body_01",
           "id": "99/0107"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0094_body_02",
           "id": "99/0107"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0094_body_03",
           "id": "99/0107"
@@ -4310,12 +4310,12 @@
     }
   },
   "cos0095": {
-    "name": "\u30d3\u30d3\u30c3\u30c9\u30af\u30eb\u30fc",
+    "name": "ビビッドクルー",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1619762400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0095_head",
           "id": "0106/a04"
@@ -4333,7 +4333,7 @@
           "id": "10/0106n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0095_head_01",
           "id": "0106/a04"
@@ -4347,7 +4347,7 @@
           "id": "10/0106a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0095_head_02",
           "id": "0106/a04"
@@ -4361,7 +4361,7 @@
           "id": "10/0106b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0095_head_03",
           "id": "0106/a04"
@@ -4378,12 +4378,12 @@
     }
   },
   "cos0096": {
-    "name": "\u30d6\u30e9\u30c3\u30af\u30ad\u30e3\u30c3\u30c8\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8",
+    "name": "ブラックキャットスターライト",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1619794800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0096_head",
           "id": "0105/a02"
@@ -4393,7 +4393,7 @@
           "id": "99/0105"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0096_head_01",
           "id": "0105/a02"
@@ -4403,7 +4403,7 @@
           "id": "99/0105"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0096_head_02",
           "id": "0105/a02"
@@ -4413,7 +4413,7 @@
           "id": "99/0105"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0096_head_03",
           "id": "0105/a02"
@@ -4426,12 +4426,12 @@
     }
   },
   "cos0097": {
-    "name": "\u30bb\u30ab\u30a4\u306e\u9b54\u6cd5\u4f7f\u3044",
+    "name": "セカイの魔法使い",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1619794800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0097_head",
           "id": "0104/a05"
@@ -4441,7 +4441,7 @@
           "id": "99/0104"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0097_head_01",
           "id": "0104/a05"
@@ -4451,7 +4451,7 @@
           "id": "99/0104"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0097_head_02",
           "id": "0104/a05"
@@ -4461,7 +4461,7 @@
           "id": "99/0104"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0097_head_03",
           "id": "0104/a05"
@@ -4474,12 +4474,12 @@
     }
   },
   "cos0098": {
-    "name": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30fc\u30eb",
+    "name": "フェアリーテール",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1620626400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0098_head",
           "id": "0113/a02"
@@ -4493,7 +4493,7 @@
           "id": "19/0113"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0098_head_01",
           "id": "0113/a02"
@@ -4507,7 +4507,7 @@
           "id": "19/0113a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0098_head_02",
           "id": "0113/a02"
@@ -4521,7 +4521,7 @@
           "id": "19/0113b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0098_head_03",
           "id": "0113/a02"
@@ -4538,12 +4538,12 @@
     }
   },
   "cos0099": {
-    "name": "\u30d5\u30a9\u30ec\u30b9\u30c8\u30c6\u30fc\u30eb",
+    "name": "フォレストテール",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1620626400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0099_head",
           "id": "0112/a03"
@@ -4557,7 +4557,7 @@
           "id": "07/0112"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0099_head_01",
           "id": "0112/a03"
@@ -4571,7 +4571,7 @@
           "id": "07/0112a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0099_head_02",
           "id": "0112/a03"
@@ -4585,7 +4585,7 @@
           "id": "07/0112b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0099_head_03",
           "id": "0112/a03"
@@ -4602,12 +4602,12 @@
     }
   },
   "cos0100": {
-    "name": "\u30af\u30e9\u30a6\u30f3\u30da\u30ae\u30fc\u30c9\u30ec\u30b9",
+    "name": "クラウンペギードレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1621576800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0100_head",
           "id": "0114/a03"
@@ -4621,7 +4621,7 @@
           "id": "06/0114"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0100_head_01",
           "id": "0114/a03"
@@ -4635,7 +4635,7 @@
           "id": "06/0114a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0100_head_02",
           "id": "0114/a03"
@@ -4649,7 +4649,7 @@
           "id": "06/0114b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0100_head_03",
           "id": "0114/a03"
@@ -4666,12 +4666,12 @@
     }
   },
   "cos0101": {
-    "name": "\u30c6\u30a3\u30a2\u30e9\u30da\u30ae\u30fc\u30c9\u30ec\u30b9",
+    "name": "ティアラペギードレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1621576800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0101_head",
           "id": "0115/a04"
@@ -4685,7 +4685,7 @@
           "id": "08/0115"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0101_head_01",
           "id": "0115/a04"
@@ -4699,7 +4699,7 @@
           "id": "08/0115a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0101_head_02",
           "id": "0115/a04"
@@ -4713,7 +4713,7 @@
           "id": "08/0115b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0101_head_03",
           "id": "0115/a04"
@@ -4730,12 +4730,12 @@
     }
   },
   "cos0102": {
-    "name": "\u30c8\u30e9\u30a6\u30e0\u30fb\u30b7\u30f3\u30ac\u30fc\u30bf\u30ad\u30b7\u30fc\u30c9",
+    "name": "トラウム・シンガータキシード",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1622440800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0102_body",
           "id": "99/0119"
@@ -4745,19 +4745,19 @@
           "id": "12/0119"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0102_body_01",
           "id": "99/0119"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0102_body_02",
           "id": "99/0119"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0102_body_03",
           "id": "99/0119"
@@ -4766,12 +4766,12 @@
     }
   },
   "cos0103": {
-    "name": "\u30d6\u30e9\u30a6\u30fb\u30ed\u30bc\u30bf\u30ad\u30b7\u30fc\u30c9",
+    "name": "ブラウ・ロゼタキシード",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1622440800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0103_body",
           "id": "99/0118"
@@ -4781,19 +4781,19 @@
           "id": "16/0118"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0103_body_01",
           "id": "99/0118"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0103_body_02",
           "id": "99/0118"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0103_body_03",
           "id": "99/0118"
@@ -4802,12 +4802,12 @@
     }
   },
   "cos0104": {
-    "name": "\u30c8\u30ec\u30b9\u30c6\u30e9\u30b3\u30c3\u30af",
+    "name": "トレステラコック",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1622473200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0104_head",
           "id": "0111/a05"
@@ -4817,7 +4817,7 @@
           "id": "99/0111"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0104_head_01",
           "id": "0111/a05"
@@ -4827,7 +4827,7 @@
           "id": "99/0111"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0104_head_02",
           "id": "0111/a05"
@@ -4837,7 +4837,7 @@
           "id": "99/0111"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0104_head_03",
           "id": "0111/a05"
@@ -4855,7 +4855,7 @@
     "rarity": "Normal",
     "time": 1622473200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0105_head",
           "id": "0110/a05"
@@ -4865,7 +4865,7 @@
           "id": "99/0110"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0105_head_01",
           "id": "0110/a05"
@@ -4875,7 +4875,7 @@
           "id": "99/0110"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0105_head_02",
           "id": "0110/a05"
@@ -4885,7 +4885,7 @@
           "id": "99/0110"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0105_head_03",
           "id": "0110/a05"
@@ -4898,12 +4898,12 @@
     }
   },
   "cos0106": {
-    "name": "\u30ad\u30f3\u30b0\u30fb\u30aa\u30d6\u30fb\u30b9\u30de\u30a4\u30eb",
+    "name": "キング・オブ・スマイル",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1623391200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0106_head",
           "id": "0122/a02"
@@ -4917,7 +4917,7 @@
           "id": "13/0122"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0106_head_01",
           "id": "0122/a02"
@@ -4931,7 +4931,7 @@
           "id": "13/0122a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0106_head_02",
           "id": "0122/a02"
@@ -4945,7 +4945,7 @@
           "id": "13/0122b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0106_head_03",
           "id": "0122/a02"
@@ -4962,12 +4962,12 @@
     }
   },
   "cos0107": {
-    "name": "\u30cf\u30d4\u30cf\u30d4\u30fb\u30af\u30ed\u30c3\u30af\u30e9\u30d3\u30c3\u30c8",
+    "name": "ハピハピ・クロックラビット",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1623391200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0107_head",
           "id": "0123/a02"
@@ -4981,7 +4981,7 @@
           "id": "14/0123"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0107_head_01",
           "id": "0123/a02"
@@ -4995,7 +4995,7 @@
           "id": "14/0123a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0107_head_02",
           "id": "0123/a02"
@@ -5009,7 +5009,7 @@
           "id": "14/0123b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0107_head_03",
           "id": "0123/a02"
@@ -5026,12 +5026,12 @@
     }
   },
   "cos0108": {
-    "name": "\u8ffd\u60f3\u306e\u30ab\u30fc\u30cd\u30fc\u30b7\u30e7\u30f3\u30c9\u30ec\u30b9",
+    "name": "追想のカーネーションドレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1624255200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0108_head",
           "id": "0121/a03"
@@ -5045,7 +5045,7 @@
           "id": "17/0121"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0108_head_01",
           "id": "0121/a03"
@@ -5059,7 +5059,7 @@
           "id": "17/0121a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0108_head_02",
           "id": "0121/a03"
@@ -5073,7 +5073,7 @@
           "id": "17/0121b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0108_head_03",
           "id": "0121/a03"
@@ -5090,12 +5090,12 @@
     }
   },
   "cos0109": {
-    "name": "\u660e\u3051\u308b\u7a7a\u8272\u306e\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3\u30c9\u30ec\u30b9",
+    "name": "明ける空色のグラデーションドレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1624255200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0109_head",
           "id": "0120/a02"
@@ -5109,7 +5109,7 @@
           "id": "24/0120"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0109_head_01",
           "id": "0120/a02"
@@ -5123,7 +5123,7 @@
           "id": "24/0120a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0109_head_02",
           "id": "0120/a02"
@@ -5137,7 +5137,7 @@
           "id": "24/0120b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0109_head_03",
           "id": "0120/a02"
@@ -5154,12 +5154,12 @@
     }
   },
   "cos0110": {
-    "name": "\u9752\u306e\u8857\u306e\u30b5\u30de\u30fc\u30c9\u30ec\u30b9",
+    "name": "青の街のサマードレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625032800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0110_head",
           "id": "0124/a03"
@@ -5177,7 +5177,7 @@
           "id": "06/0124n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0110_head_01",
           "id": "0124/a03"
@@ -5191,7 +5191,7 @@
           "id": "06/0124a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0110_head_02",
           "id": "0124/a03"
@@ -5205,7 +5205,7 @@
           "id": "06/0124b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0110_head_03",
           "id": "0124/a03"
@@ -5222,12 +5222,12 @@
     }
   },
   "cos0111": {
-    "name": "\u30e1\u30e2\u30ea\u30a2\u30eb\u30cf\u30fc\u30c8\u30b3\u30fc\u30c7",
+    "name": "メモリアルハートコーデ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625032800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0111_head",
           "id": "0125/a05"
@@ -5245,7 +5245,7 @@
           "id": "07/0125n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0111_head_01",
           "id": "0125/a05"
@@ -5259,7 +5259,7 @@
           "id": "07/0125a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0111_head_02",
           "id": "0125/a05"
@@ -5273,7 +5273,7 @@
           "id": "07/0125b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0111_head_03",
           "id": "0125/a05"
@@ -5290,12 +5290,12 @@
     }
   },
   "cos0112": {
-    "name": "\u30aa\u30fc\u30ed\u30e9\u30ec\u30a4\u30f3\u30dc\u30fc\u30b3\u30fc\u30c8",
+    "name": "オーロラレインボーコート",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625032800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0112_head",
           "id": "0128/a03"
@@ -5309,7 +5309,7 @@
           "id": "02/0128"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0112_head_01",
           "id": "0128/a03"
@@ -5323,7 +5323,7 @@
           "id": "02/0128a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0112_head_02",
           "id": "0128/a03"
@@ -5337,7 +5337,7 @@
           "id": "02/0128b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0112_head_03",
           "id": "0128/a03"
@@ -5354,12 +5354,12 @@
     }
   },
   "cos0113": {
-    "name": "\u30d7\u30c1\u30ec\u30a4\u30f3\u30dc\u30fc\u30b3\u30fc\u30c8",
+    "name": "プチレインボーコート",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625032800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0113_head",
           "id": "0129/a02"
@@ -5373,7 +5373,7 @@
           "id": "22/0129"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0113_head_01",
           "id": "0129/a02"
@@ -5387,7 +5387,7 @@
           "id": "22/0129a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0113_head_02",
           "id": "0129/a02"
@@ -5401,7 +5401,7 @@
           "id": "22/0129b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0113_head_03",
           "id": "0129/a02"
@@ -5418,12 +5418,12 @@
     }
   },
   "cos0114": {
-    "name": "\u30d1\u30a4\u30ec\u30fc\u30c4\u30fb\u30aa\u30d6\u30fb\u30da\u30f3\u30ae\u30f3",
+    "name": "パイレーツ・オブ・ペンギン",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1625065200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0114_head",
           "id": "0117/a05"
@@ -5433,7 +5433,7 @@
           "id": "99/0117"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0114_head_01",
           "id": "0117/a05"
@@ -5443,7 +5443,7 @@
           "id": "99/0117"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0114_head_02",
           "id": "0117/a05"
@@ -5453,7 +5453,7 @@
           "id": "99/0117"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0114_head_03",
           "id": "0117/a05"
@@ -5471,7 +5471,7 @@
     "rarity": "Normal",
     "time": 1625065200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0115_head",
           "id": "0116/a05"
@@ -5481,7 +5481,7 @@
           "id": "99/0116"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0115_head_01",
           "id": "0116/a05"
@@ -5491,7 +5491,7 @@
           "id": "99/0116"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0115_head_02",
           "id": "0116/a05"
@@ -5501,7 +5501,7 @@
           "id": "99/0116"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0115_head_03",
           "id": "0116/a05"
@@ -5514,12 +5514,12 @@
     }
   },
   "cos0116": {
-    "name": "\u30d3\u30fc\u30b9\u30c8\u30cf\u30fc\u30c8\u30fb\u30ac\u30fc\u30eb",
+    "name": "ビーストハート・ガール",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625810400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0116_head",
           "id": "0132/a04"
@@ -5533,7 +5533,7 @@
           "id": "09/0132"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0116_head_01",
           "id": "0132/a04"
@@ -5547,7 +5547,7 @@
           "id": "09/0132a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0116_head_02",
           "id": "0132/a04"
@@ -5561,7 +5561,7 @@
           "id": "09/0132b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0116_head_03",
           "id": "0132/a04"
@@ -5578,12 +5578,12 @@
     }
   },
   "cos0117": {
-    "name": "\u30d3\u30fc\u30b9\u30c8\u30cf\u30fc\u30c8\u30fb\u30d0\u30c7\u30a3",
+    "name": "ビーストハート・バディ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625810400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0117_head",
           "id": "0133/a04"
@@ -5597,7 +5597,7 @@
           "id": "10/0133"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0117_head_01",
           "id": "0133/a04"
@@ -5611,7 +5611,7 @@
           "id": "10/0133a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0117_head_02",
           "id": "0133/a04"
@@ -5625,7 +5625,7 @@
           "id": "10/0133b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0117_head_03",
           "id": "0133/a04"
@@ -5642,12 +5642,12 @@
     }
   },
   "cos0118": {
-    "name": "\u71c3\u3048\u308b\u66d9\u306e\u7e8f",
+    "name": "燃える曙の纏",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1626760800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "unique_head": {
           "bundle": "cos0118_unique_head",
           "id": "11/0130"
@@ -5661,7 +5661,7 @@
           "id": "0130/a02"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "unique_head": {
           "bundle": "cos0118_unique_head_01",
           "id": "11/0130a"
@@ -5675,7 +5675,7 @@
           "id": "0130/a02"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "unique_head": {
           "bundle": "cos0118_unique_head_02",
           "id": "11/0130b"
@@ -5689,7 +5689,7 @@
           "id": "0130/a02"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "unique_head": {
           "bundle": "cos0118_unique_head_03",
           "id": "11/0130c"
@@ -5706,12 +5706,12 @@
     }
   },
   "cos0119": {
-    "name": "\u6dbc\u3080\u9ec4\u660f\u306e\u7e8f",
+    "name": "涼む黄昏の纏",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1626760800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0119_head",
           "id": "0131/a03"
@@ -5725,7 +5725,7 @@
           "id": "19/0131"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0119_head_01",
           "id": "0131/a03"
@@ -5739,7 +5739,7 @@
           "id": "19/0131a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0119_head_02",
           "id": "0131/a03"
@@ -5753,7 +5753,7 @@
           "id": "19/0131b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0119_head_03",
           "id": "0131/a03"
@@ -5770,12 +5770,12 @@
     }
   },
   "cos0120": {
-    "name": "\u30b5\u30f3\u30bb\u30c3\u30c8\u30d3\u30fc\u30c1\u30fb\u30ac\u30fc\u30eb",
+    "name": "サンセットビーチ・ガール",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1627711200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0120_head",
           "id": "0135/a04"
@@ -5793,7 +5793,7 @@
           "id": "03/0135n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0120_head_01",
           "id": "0135/a04"
@@ -5807,7 +5807,7 @@
           "id": "03/0135a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0120_head_02",
           "id": "0135/a04"
@@ -5821,7 +5821,7 @@
           "id": "03/0135b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0120_head_03",
           "id": "0135/a04"
@@ -5838,12 +5838,12 @@
     }
   },
   "cos0121": {
-    "name": "\u30de\u30ea\u30fc\u30f3\u30b7\u30a7\u30eb\u30fb\u30ac\u30fc\u30eb",
+    "name": "マリーンシェル・ガール",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1627711200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0121_head",
           "id": "0134/a04"
@@ -5861,7 +5861,7 @@
           "id": "02/0134n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0121_head_01",
           "id": "0134/a04"
@@ -5875,7 +5875,7 @@
           "id": "02/0134a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0121_head_02",
           "id": "0134/a04"
@@ -5889,7 +5889,7 @@
           "id": "02/0134b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0121_head_03",
           "id": "0134/a04"
@@ -5906,12 +5906,12 @@
     }
   },
   "cos0122": {
-    "name": "\u30ea\u30c8\u30eb\u30b9\u30c8\u30ed\u30d9\u30a2\u30ea\u30fc",
+    "name": "リトルストロベアリー",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1627743600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0122_head",
           "id": "0127/a05"
@@ -5921,7 +5921,7 @@
           "id": "99/0127"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0122_head_01",
           "id": "0127/a05"
@@ -5931,7 +5931,7 @@
           "id": "99/0127"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0122_head_02",
           "id": "0127/a05"
@@ -5941,7 +5941,7 @@
           "id": "99/0127"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0122_head_03",
           "id": "0127/a05"
@@ -5954,12 +5954,12 @@
     }
   },
   "cos0123": {
-    "name": "\u96fb\u83ef\u718a\u732b",
+    "name": "電華熊猫",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1627743600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0123_head",
           "id": "0126/a05"
@@ -5969,7 +5969,7 @@
           "id": "99/0126"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0123_head_01",
           "id": "0126/a05"
@@ -5979,7 +5979,7 @@
           "id": "99/0126"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0123_head_02",
           "id": "0126/a05"
@@ -5989,7 +5989,7 @@
           "id": "99/0126"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0123_head_03",
           "id": "0126/a05"
@@ -6002,12 +6002,12 @@
     }
   },
   "cos0124": {
-    "name": "\u611b\u306e\u30e1\u30c3\u30bb\u30f3\u30b8\u30e3\u30fc",
+    "name": "愛のメッセンジャー",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1628575200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0124_head",
           "id": "0137/a02"
@@ -6021,7 +6021,7 @@
           "id": "07/0137"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0124_head_01",
           "id": "0137/a02"
@@ -6035,7 +6035,7 @@
           "id": "07/0137a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0124_head_02",
           "id": "0137/a02"
@@ -6049,7 +6049,7 @@
           "id": "07/0137b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0124_head_03",
           "id": "0137/a02"
@@ -6066,12 +6066,12 @@
     }
   },
   "cos0125": {
-    "name": "\u5e0c\u671b\u306e\u30e1\u30c3\u30bb\u30f3\u30b8\u30e3\u30fc",
+    "name": "希望のメッセンジャー",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1628575200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0125_head",
           "id": "0136/a01"
@@ -6085,7 +6085,7 @@
           "id": "23/0136"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0125_head_01",
           "id": "0136/a01"
@@ -6099,7 +6099,7 @@
           "id": "23/0136a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0125_head_02",
           "id": "0136/a01"
@@ -6113,7 +6113,7 @@
           "id": "23/0136b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0125_head_03",
           "id": "0136/a01"
@@ -6130,12 +6130,12 @@
     }
   },
   "cos0126": {
-    "name": "\u30de\u30fc\u30e1\u30a4\u30c9\u30fb\u30a6\u30a9\u30fc\u30bf\u30fc\u30c9\u30ec\u30b9",
+    "name": "マーメイド・ウォータードレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1629439200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0126_head",
           "id": "0138/a02"
@@ -6149,7 +6149,7 @@
           "id": "15/0138"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0126_head_01",
           "id": "0138/a02"
@@ -6163,7 +6163,7 @@
           "id": "15/0138a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0126_head_02",
           "id": "0138/a02"
@@ -6177,7 +6177,7 @@
           "id": "15/0138b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0126_head_03",
           "id": "0138/a02"
@@ -6194,12 +6194,12 @@
     }
   },
   "cos0127": {
-    "name": "\u30b8\u30a7\u30ea\u30fc\u30d5\u30a3\u30c3\u30b7\u30e5\u30fb\u30bf\u30ad\u30b7\u30fc\u30c9",
+    "name": "ジェリーフィッシュ・タキシード",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1629439200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0127_head",
           "id": "0139/a01"
@@ -6213,7 +6213,7 @@
           "id": "16/0139"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0127_head_01",
           "id": "0139/a01"
@@ -6227,7 +6227,7 @@
           "id": "16/0139a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0127_head_02",
           "id": "0139/a01"
@@ -6241,7 +6241,7 @@
           "id": "16/0139b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0127_head_03",
           "id": "0139/a01"
@@ -6258,12 +6258,12 @@
     }
   },
   "cos0128": {
-    "name": "\u6708\u60f3\u3046\u30a2\u30a4\u30c9\u30eb\u30fb\u30e9\u30d3\u30c3\u30c8",
+    "name": "月想うアイドル・ラビット",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1630389600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0128_head",
           "id": "0141/a04"
@@ -6281,7 +6281,7 @@
           "id": "08/0141n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0128_head_01",
           "id": "0141/a04"
@@ -6295,7 +6295,7 @@
           "id": "08/0141a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0128_head_02",
           "id": "0141/a04"
@@ -6309,7 +6309,7 @@
           "id": "08/0141b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0128_head_03",
           "id": "0141/a04"
@@ -6326,12 +6326,12 @@
     }
   },
   "cos0129": {
-    "name": "\u661f\u8ffd\u3046\u30ed\u30c3\u30ab\u30fc\u30fb\u30e9\u30d3\u30c3\u30c8",
+    "name": "星追うロッカー・ラビット",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1630389600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0129_head",
           "id": "0140/a03"
@@ -6349,7 +6349,7 @@
           "id": "04/0140n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0129_head_01",
           "id": "0140/a03"
@@ -6363,7 +6363,7 @@
           "id": "04/0140a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0129_head_02",
           "id": "0140/a03"
@@ -6377,7 +6377,7 @@
           "id": "04/0140b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0129_head_03",
           "id": "0140/a03"
@@ -6394,12 +6394,12 @@
     }
   },
   "cos0130": {
-    "name": "\u5b89\u7720DreamingRibbon",
+    "name": "安眠DreamingRibbon",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1630422000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0130_head",
           "id": "0152/a05"
@@ -6409,7 +6409,7 @@
           "id": "99/0152"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0130_head_01",
           "id": "0152/a05"
@@ -6419,7 +6419,7 @@
           "id": "99/0152"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0130_head_02",
           "id": "0152/a05"
@@ -6429,7 +6429,7 @@
           "id": "99/0152"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0130_head_03",
           "id": "0152/a05"
@@ -6442,12 +6442,12 @@
     }
   },
   "cos0131": {
-    "name": "\u30a2\u30b0\u30ec\u30c3\u30b7\u30d6\u5bdd\u76f8\u30a6\u30a7\u30a2",
+    "name": "アグレッシブ寝相ウェア",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1630422000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0131_head",
           "id": "0151/a05"
@@ -6457,7 +6457,7 @@
           "id": "99/0151"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0131_head_01",
           "id": "0151/a05"
@@ -6467,7 +6467,7 @@
           "id": "99/0151"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0131_head_02",
           "id": "0151/a05"
@@ -6477,7 +6477,7 @@
           "id": "99/0151"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0131_head_03",
           "id": "0151/a05"
@@ -6490,12 +6490,12 @@
     }
   },
   "cos0132": {
-    "name": "\u30d5\u30eb\u30e1\u30bf\u30eb\u30fb\u30cf\u30fc\u30c8",
+    "name": "フルメタル・ハート",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1631253600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "unique_head": {
           "bundle": "cos0132_unique_head",
           "id": "01/0147"
@@ -6509,7 +6509,7 @@
           "id": "0147/a04"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "unique_head": {
           "bundle": "cos0132_unique_head_01",
           "id": "01/0147a"
@@ -6523,7 +6523,7 @@
           "id": "0147/a04"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "unique_head": {
           "bundle": "cos0132_unique_head_02",
           "id": "01/0147b"
@@ -6537,7 +6537,7 @@
           "id": "0147/a04"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "unique_head": {
           "bundle": "cos0132_unique_head_03",
           "id": "01/0147c"
@@ -6554,12 +6554,12 @@
     }
   },
   "cos0133": {
-    "name": "\u30d6\u30ec\u30a4\u30d6\u30d5\u30eb\u30fb\u30cf\u30fc\u30c8",
+    "name": "ブレイブフル・ハート",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1631253600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0133_head",
           "id": "0146/a02"
@@ -6573,7 +6573,7 @@
           "id": "26/0146"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0133_head_01",
           "id": "0146/a02"
@@ -6587,7 +6587,7 @@
           "id": "26/0146a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0133_head_02",
           "id": "0146/a02"
@@ -6601,7 +6601,7 @@
           "id": "26/0146b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0133_head_03",
           "id": "0146/a02"
@@ -6618,12 +6618,12 @@
     }
   },
   "cos0136": {
-    "name": "\u30b9\u30ce\u30fc\u30db\u30ef\u30a4\u30c8\u30fb\u30d5\u30a9\u30ae\u30fc\u30c9\u30ec\u30b9",
+    "name": "スノーホワイト・フォギードレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1632204000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0136_head",
           "id": "0142/a03"
@@ -6637,7 +6637,7 @@
           "id": "18/0142"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0136_head_01",
           "id": "0142/a03"
@@ -6651,7 +6651,7 @@
           "id": "18/0142a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0136_head_02",
           "id": "0142/a03"
@@ -6665,7 +6665,7 @@
           "id": "18/0142b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0136_head_03",
           "id": "0142/a03"
@@ -6682,12 +6682,12 @@
     }
   },
   "cos0137": {
-    "name": "\u30ea\u30ea\u30fc\u30d9\u30eb\u30fb\u30d5\u30a9\u30ae\u30fc\u30c9\u30ec\u30b9",
+    "name": "リリーベル・フォギードレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1632204000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0137_head",
           "id": "0143/a04"
@@ -6701,7 +6701,7 @@
           "id": "20/0143"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0137_head_01",
           "id": "0143/a04"
@@ -6715,7 +6715,7 @@
           "id": "20/0143a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0137_head_02",
           "id": "0143/a04"
@@ -6729,7 +6729,7 @@
           "id": "20/0143b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0137_head_03",
           "id": "0143/a04"
@@ -6746,12 +6746,12 @@
     }
   },
   "cos0138": {
-    "name": "\u30c8\u30ea\u30c3\u30af\u30fb\u30aa\u30a2\u30fb\u30da\u30a4\u30f3\u30c8",
+    "name": "トリック・オア・ペイント",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633014000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0138_head",
           "id": "0165/a03"
@@ -6761,7 +6761,7 @@
           "id": "99/0165"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0138_head_01",
           "id": "0165/a03"
@@ -6771,7 +6771,7 @@
           "id": "99/0165"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0138_head_02",
           "id": "0165/a03"
@@ -6781,7 +6781,7 @@
           "id": "99/0165"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0138_head_03",
           "id": "0165/a03"
@@ -6799,7 +6799,7 @@
     "rarity": "Normal",
     "time": 1633014000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0139_head",
           "id": "0164/a05"
@@ -6809,7 +6809,7 @@
           "id": "99/0164"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0139_head_01",
           "id": "0164/a05"
@@ -6819,7 +6819,7 @@
           "id": "99/0164"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0139_head_02",
           "id": "0164/a05"
@@ -6829,7 +6829,7 @@
           "id": "99/0164"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0139_head_03",
           "id": "0164/a05"
@@ -6842,12 +6842,12 @@
     }
   },
   "cos0140": {
-    "name": "\u30b0\u30ec\u30a4\u30b9\u30d5\u30eb\u30fb\u30bb\u30ab\u30a4\u30c9\u30ec\u30b9",
+    "name": "グレイスフル・セカイドレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633068000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0140_head",
           "id": "0160/a02"
@@ -6865,7 +6865,7 @@
           "id": "21/0160n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0140_head_01",
           "id": "0160/a02"
@@ -6879,7 +6879,7 @@
           "id": "21/0160a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0140_head_02",
           "id": "0160/a02"
@@ -6893,7 +6893,7 @@
           "id": "21/0160b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0140_head_03",
           "id": "0160/a02"
@@ -6910,12 +6910,12 @@
     }
   },
   "cos0141": {
-    "name": "\u30db\u30ef\u30a4\u30c8\u30cf\u30fc\u30c8\u30fb\u30ab\u30fc\u30c7",
+    "name": "ホワイトハート・カーデ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633068000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "body": {
           "bundle": "cos0141_body",
           "id": "99/0161"
@@ -6925,19 +6925,19 @@
           "id": "01/0161"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "body": {
           "bundle": "cos0141_body_01",
           "id": "99/0161"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "body": {
           "bundle": "cos0141_body_02",
           "id": "99/0161"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "body": {
           "bundle": "cos0141_body_03",
           "id": "99/0161"
@@ -6946,12 +6946,12 @@
     }
   },
   "cos0142": {
-    "name": "\u30db\u30fc\u30d7\u30d5\u30eb\u30fb\u30d5\u30ea\u30eb\u30b3\u30fc\u30c7",
+    "name": "ホープフル・フリルコーデ",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633068000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0142_head",
           "id": "0148/a03"
@@ -6969,7 +6969,7 @@
           "id": "05/0148n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0142_head_01",
           "id": "0148/a03"
@@ -6983,7 +6983,7 @@
           "id": "05/0148a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0142_head_02",
           "id": "0148/a03"
@@ -6997,7 +6997,7 @@
           "id": "05/0148b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0142_head_03",
           "id": "0148/a03"
@@ -7014,12 +7014,12 @@
     }
   },
   "cos0143": {
-    "name": "\u30d4\u30e5\u30a2\u30cf\u30fc\u30c8\u30fb\u30d5\u30ea\u30eb\u30b8\u30e3\u30b1\u30c3\u30c8",
+    "name": "ピュアハート・フリルジャケット",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633068000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0143_head",
           "id": "0149/a04"
@@ -7037,7 +7037,7 @@
           "id": "09/0149n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0143_head_01",
           "id": "0149/a04"
@@ -7051,7 +7051,7 @@
           "id": "09/0149a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0143_head_02",
           "id": "0149/a04"
@@ -7065,7 +7065,7 @@
           "id": "09/0149b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0143_head_03",
           "id": "0149/a04"
@@ -7082,12 +7082,12 @@
     }
   },
   "cos0144": {
-    "name": "\u30d4\u30e5\u30a2\u30d5\u30e9\u30ef\u30fc\u30fb\u30bf\u30ad\u30b7\u30fc\u30c9",
+    "name": "ピュアフラワー・タキシード",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1633068000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0144_head",
           "id": "0150/a04"
@@ -7105,7 +7105,7 @@
           "id": "13/0150n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0144_head_01",
           "id": "0150/a04"
@@ -7119,7 +7119,7 @@
           "id": "13/0150a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0144_head_02",
           "id": "0150/a04"
@@ -7133,7 +7133,7 @@
           "id": "13/0150b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0144_head_03",
           "id": "0150/a04"
@@ -7150,12 +7150,12 @@
     }
   },
   "cos0145": {
-    "name": "\u30e9\u30d4\u30b9\u30b9\u30ab\u30a4\u30fb\u30bb\u30fc\u30e9\u30fc",
+    "name": "ラピススカイ・セーラー",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633068000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0145_head",
           "id": "0145/a02"
@@ -7165,7 +7165,7 @@
           "id": "99/0145"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0145_head_01",
           "id": "0145/a02"
@@ -7175,7 +7175,7 @@
           "id": "99/0145"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0145_head_02",
           "id": "0145/a02"
@@ -7185,7 +7185,7 @@
           "id": "99/0145"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0145_head_03",
           "id": "0145/a02"
@@ -7198,12 +7198,12 @@
     }
   },
   "cos0146": {
-    "name": "\u30e9\u30d4\u30b9\u30b9\u30ab\u30a4\u30fb\u30d6\u30ec\u30b6\u30fc",
+    "name": "ラピススカイ・ブレザー",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1633068000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0146_head",
           "id": "0144/a05"
@@ -7213,7 +7213,7 @@
           "id": "99/0144"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0146_head_01",
           "id": "0144/a05"
@@ -7223,7 +7223,7 @@
           "id": "99/0144"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0146_head_02",
           "id": "0144/a05"
@@ -7233,7 +7233,7 @@
           "id": "99/0144"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0146_head_03",
           "id": "0144/a05"
@@ -7246,12 +7246,12 @@
     }
   },
   "cos0147": {
-    "name": "\u30b9\u30bf\u30c3\u30ba\u30b9\u30bf\u30fc\u30ba\u30fb\u30b5\u30b9\u30da\u30f3\u30c0\u30fc",
+    "name": "スタッズスターズ・サスペンダー",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633154400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0147_head",
           "id": "0153/a05"
@@ -7261,7 +7261,7 @@
           "id": "99/0153"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0147_head_01",
           "id": "0153/a05"
@@ -7271,7 +7271,7 @@
           "id": "99/0153"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0147_head_02",
           "id": "0153/a05"
@@ -7281,7 +7281,7 @@
           "id": "99/0153"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0147_head_03",
           "id": "0153/a05"
@@ -7294,12 +7294,12 @@
     }
   },
   "cos0148": {
-    "name": "\u30b7\u30e3\u30fc\u30ea\u30f3\u30b0\u30c6\u30a4\u30eb\u30fb\u30af\u30ed\u30fc\u30d0\u30fc",
+    "name": "シャーリングテイル・クローバー",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633240800000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0148_head",
           "id": "0154/a05"
@@ -7309,7 +7309,7 @@
           "id": "99/0154"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0148_head_01",
           "id": "0154/a05"
@@ -7319,7 +7319,7 @@
           "id": "99/0154"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0148_head_02",
           "id": "0154/a05"
@@ -7329,7 +7329,7 @@
           "id": "99/0154"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0148_head_03",
           "id": "0154/a05"
@@ -7342,12 +7342,12 @@
     }
   },
   "cos0149": {
-    "name": "\u30b9\u30c8\u30ab\u30b8\u30e5\u30fb\u30cf\u30fc\u30cd\u30b9\u30d9\u30eb\u30c8",
+    "name": "ストカジュ・ハーネスベルト",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633327200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0149_head",
           "id": "0157/a01"
@@ -7357,7 +7357,7 @@
           "id": "99/0157"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0149_head_01",
           "id": "0157/a01"
@@ -7367,7 +7367,7 @@
           "id": "99/0157"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0149_head_02",
           "id": "0157/a01"
@@ -7377,7 +7377,7 @@
           "id": "99/0157"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0149_head_03",
           "id": "0157/a01"
@@ -7390,12 +7390,12 @@
     }
   },
   "cos0150": {
-    "name": "\u30d5\u30fc\u30c7\u30a3\u30fc\u30fb\u30cf\u30fc\u30cd\u30b9\u30d9\u30eb\u30c8",
+    "name": "フーディー・ハーネスベルト",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1633327200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0150_head",
           "id": "0158/a01"
@@ -7405,7 +7405,7 @@
           "id": "99/0158"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0150_head_01",
           "id": "0158/a01"
@@ -7415,7 +7415,7 @@
           "id": "99/0158"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0150_head_02",
           "id": "0158/a01"
@@ -7425,7 +7425,7 @@
           "id": "99/0158"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0150_head_03",
           "id": "0158/a01"
@@ -7438,12 +7438,12 @@
     }
   },
   "cos0151": {
-    "name": "\u30b9\u30a4\u30fc\u30c6\u30a3\u30fc\u30ab\u30c3\u30d7\u30c9\u30ec\u30b9",
+    "name": "スイーティーカップドレス",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633413600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0151_head",
           "id": "0155/a05"
@@ -7453,7 +7453,7 @@
           "id": "99/0155"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0151_head_01",
           "id": "0155/a05"
@@ -7463,7 +7463,7 @@
           "id": "99/0155"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0151_head_02",
           "id": "0155/a05"
@@ -7473,7 +7473,7 @@
           "id": "99/0155"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0151_head_03",
           "id": "0155/a05"
@@ -7486,12 +7486,12 @@
     }
   },
   "cos0152": {
-    "name": "\u30ed\u30a4\u30e4\u30eb\u30ed\u30fc\u30ba\u30db\u30fc\u30b9",
+    "name": "ロイヤルローズホース",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1633413600000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0152_head",
           "id": "0156/a01"
@@ -7501,7 +7501,7 @@
           "id": "99/0156"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0152_head_01",
           "id": "0156/a01"
@@ -7511,7 +7511,7 @@
           "id": "99/0156"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0152_head_02",
           "id": "0156/a01"
@@ -7521,7 +7521,7 @@
           "id": "99/0156"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0152_head_03",
           "id": "0156/a01"
@@ -7534,12 +7534,12 @@
     }
   },
   "cos0153": {
-    "name": "\u30ca\u30a4\u30c8\u30ea\u30fc\u30c9\u30ed\u30ef\u30fc\u30ba",
+    "name": "ナイトリードロワーズ",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633500000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0153_head",
           "id": "0159/a05"
@@ -7549,7 +7549,7 @@
           "id": "99/0159"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0153_head_01",
           "id": "0159/a05"
@@ -7559,7 +7559,7 @@
           "id": "99/0159"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0153_head_02",
           "id": "0159/a05"
@@ -7569,7 +7569,7 @@
           "id": "99/0159"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0153_head_03",
           "id": "0159/a05"
@@ -7582,12 +7582,12 @@
     }
   },
   "cos0154": {
-    "name": "Don't give up\u30fbStyle",
+    "name": "Don't give up・Style",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633932000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0154_head",
           "id": "0166/a04"
@@ -7601,7 +7601,7 @@
           "id": "10/0166"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0154_head_01",
           "id": "0166/a04"
@@ -7615,7 +7615,7 @@
           "id": "10/0166a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0154_head_02",
           "id": "0166/a04"
@@ -7629,7 +7629,7 @@
           "id": "10/0166b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0154_head_03",
           "id": "0166/a04"
@@ -7646,12 +7646,12 @@
     }
   },
   "cos0155": {
-    "name": "Believe in\u30fbStyle",
+    "name": "Believe in・Style",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1633932000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0155_head",
           "id": "0167/a03"
@@ -7665,7 +7665,7 @@
           "id": "12/0167"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0155_head_01",
           "id": "0167/a03"
@@ -7679,7 +7679,7 @@
           "id": "12/0167a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0155_head_02",
           "id": "0167/a03"
@@ -7693,7 +7693,7 @@
           "id": "12/0167b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0155_head_03",
           "id": "0167/a03"
@@ -7710,12 +7710,12 @@
     }
   },
   "cos0156": {
-    "name": "\u30a2\u30eb\u30ab\u30a4\u30c3\u30af\u30fb\u30a2\u30eb\u30b1\u30df\u30b9\u30c8",
+    "name": "アルカイック・アルケミスト",
     "gender": "Male",
     "rarity": "Rare",
     "time": 1634796000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0156_head",
           "id": "0163/a02"
@@ -7729,7 +7729,7 @@
           "id": "16/0163"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0156_head_01",
           "id": "0163/a02"
@@ -7743,7 +7743,7 @@
           "id": "16/0163a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0156_head_02",
           "id": "0163/a02"
@@ -7757,7 +7757,7 @@
           "id": "16/0163b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0156_head_03",
           "id": "0163/a02"
@@ -7774,12 +7774,12 @@
     }
   },
   "cos0157": {
-    "name": "\u30d5\u30a9\u30ec\u30b9\u30c8\u30fb\u30ac\u30fc\u30c7\u30a3\u30a2\u30f3",
+    "name": "フォレスト・ガーディアン",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1634796000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0157_head",
           "id": "0162/a02"
@@ -7793,7 +7793,7 @@
           "id": "14/0162"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0157_head_01",
           "id": "0162/a02"
@@ -7807,7 +7807,7 @@
           "id": "14/0162a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0157_head_02",
           "id": "0162/a02"
@@ -7821,7 +7821,7 @@
           "id": "14/0162b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0157_head_03",
           "id": "0162/a02"
@@ -7838,12 +7838,12 @@
     }
   },
   "cos0158": {
-    "name": "\u30d1\u30f3\u30d7\u30ad\u30f3\u30de\u30b8\u30e7\u30ea\u30fc\u30cc",
+    "name": "パンプキンマジョリーヌ",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1635487200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0158_head",
           "id": "0046/a02"
@@ -7853,7 +7853,7 @@
           "id": "99/0046"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0158_head_01",
           "id": "0046/a02"
@@ -7863,7 +7863,7 @@
           "id": "99/0046"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0158_head_02",
           "id": "0046/a02"
@@ -7873,7 +7873,7 @@
           "id": "99/0046"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0158_head_03",
           "id": "0046/a02"
@@ -7886,12 +7886,12 @@
     }
   },
   "cos0159": {
-    "name": "\u30d1\u30f3\u30d7\u30ad\u30f3\u30bd\u30fc\u30b5\u30e9\u30fc",
+    "name": "パンプキンソーサラー",
     "gender": "Male",
     "rarity": "Normal",
     "time": 1635487200000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0159_head",
           "id": "0045/a05"
@@ -7901,7 +7901,7 @@
           "id": "99/0045"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0159_head_01",
           "id": "0045/a05"
@@ -7911,7 +7911,7 @@
           "id": "99/0045"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0159_head_02",
           "id": "0045/a05"
@@ -7921,7 +7921,7 @@
           "id": "99/0045"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0159_head_03",
           "id": "0045/a05"
@@ -7934,12 +7934,12 @@
     }
   },
   "cos0160": {
-    "name": "\u30c0\u30fc\u30af\u30af\u30e9\u30a6\u30ba\u30fb\u30af\u30ed\u30fc\u30af",
+    "name": "ダーククラウズ・クローク",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1635660000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0160_head",
           "id": "0169/a04"
@@ -7957,7 +7957,7 @@
           "id": "20/0169n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0160_head_01",
           "id": "0169/a04"
@@ -7971,7 +7971,7 @@
           "id": "20/0169a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0160_head_02",
           "id": "0169/a04"
@@ -7985,7 +7985,7 @@
           "id": "20/0169b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0160_head_03",
           "id": "0169/a04"
@@ -8002,12 +8002,12 @@
     }
   },
   "cos0161": {
-    "name": "\u30b7\u30fc\u30ad\u30f3\u30b0\u30fb\u30af\u30ed\u30fc\u30af",
+    "name": "シーキング・クローク",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1635660000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0161_head",
           "id": "0168/a04"
@@ -8025,7 +8025,7 @@
           "id": "19/0168n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0161_head_01",
           "id": "0168/a04"
@@ -8039,7 +8039,7 @@
           "id": "19/0168a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0161_head_02",
           "id": "0168/a04"
@@ -8053,7 +8053,7 @@
           "id": "19/0168b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0161_head_03",
           "id": "0168/a04"
@@ -8070,12 +8070,12 @@
     }
   },
   "cos0162": {
-    "name": "\u30ce\u30a2\u30fc\u30eb\u30b7\u30e5\u30f4\u30a1\u30ea\u30a8",
+    "name": "ノアールシュヴァリエ",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1635692400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0162_head",
           "id": "0171/a05"
@@ -8085,7 +8085,7 @@
           "id": "99/0171"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0162_head_01",
           "id": "0171/a05"
@@ -8095,7 +8095,7 @@
           "id": "99/0171"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0162_head_02",
           "id": "0171/a05"
@@ -8105,7 +8105,7 @@
           "id": "99/0171"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0162_head_03",
           "id": "0171/a05"
@@ -8123,7 +8123,7 @@
     "rarity": "Normal",
     "time": 1635692400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0163_head",
           "id": "0170/a05"
@@ -8133,7 +8133,7 @@
           "id": "99/0170"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0163_head_01",
           "id": "0170/a05"
@@ -8143,7 +8143,7 @@
           "id": "99/0170"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0163_head_02",
           "id": "0170/a05"
@@ -8153,7 +8153,7 @@
           "id": "99/0170"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0163_head_03",
           "id": "0170/a05"
@@ -8166,12 +8166,12 @@
     }
   },
   "cos0164": {
-    "name": "\u30c6\u30f3\u30c0\u30cd\u30b9\u30fb\u30b7\u30b9\u30bf\u30fc",
+    "name": "テンダネス・シスター",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1636610400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0164_head",
           "id": "0174/a04"
@@ -8185,7 +8185,7 @@
           "id": "03/0174"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0164_head_01",
           "id": "0174/a04"
@@ -8199,7 +8199,7 @@
           "id": "03/0174a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0164_head_02",
           "id": "0174/a04"
@@ -8213,7 +8213,7 @@
           "id": "03/0174b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0164_head_03",
           "id": "0174/a04"
@@ -8230,12 +8230,12 @@
     }
   },
   "cos0165": {
-    "name": "\u30bd\u30fc\u30c8\u30d5\u30eb\u30fb\u30b7\u30b9\u30bf\u30fc",
+    "name": "ソートフル・シスター",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1636610400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0165_head",
           "id": "0175/a04"
@@ -8249,7 +8249,7 @@
           "id": "04/0175"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0165_head_01",
           "id": "0175/a04"
@@ -8263,7 +8263,7 @@
           "id": "04/0175a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0165_head_02",
           "id": "0175/a04"
@@ -8277,7 +8277,7 @@
           "id": "04/0175b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0165_head_03",
           "id": "0175/a04"
@@ -8294,12 +8294,12 @@
     }
   },
   "cos0166": {
-    "name": "\u30c8\u30a5\u30a4\u30f3\u30af\u30eb\u30fb\u30d1\u30ec\u30fc\u30c9",
+    "name": "トゥインクル・パレード",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1637388000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0166_head",
           "id": "0181/a03"
@@ -8313,7 +8313,7 @@
           "id": "09/0181"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0166_head_01",
           "id": "0181/a03"
@@ -8327,7 +8327,7 @@
           "id": "09/0181a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0166_head_02",
           "id": "0181/a03"
@@ -8341,7 +8341,7 @@
           "id": "09/0181b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0166_head_03",
           "id": "0181/a03"
@@ -8358,12 +8358,12 @@
     }
   },
   "cos0167": {
-    "name": "\u30b9\u30a4\u30fc\u30c8\u30ca\u30a4\u30c8\u30fb\u30d1\u30ec\u30fc\u30c9",
+    "name": "スイートナイト・パレード",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1637388000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0167_head",
           "id": "0180/a04"
@@ -8377,7 +8377,7 @@
           "id": "24/0180"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0167_head_01",
           "id": "0180/a04"
@@ -8391,7 +8391,7 @@
           "id": "24/0180a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0167_head_02",
           "id": "0180/a04"
@@ -8405,7 +8405,7 @@
           "id": "24/0180b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0167_head_03",
           "id": "0180/a04"
@@ -8422,12 +8422,12 @@
     }
   },
   "cos0168": {
-    "name": "\u30b9\u30ce\u30fc\u30d5\u30ec\u30a4\u30af\u30fb\u30b8\u30e3\u30b1\u30c3\u30c8",
+    "name": "スノーフレイク・ジャケット",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1638252000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0168_head",
           "id": "0183/a04"
@@ -8445,7 +8445,7 @@
           "id": "18/0183n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0168_head_01",
           "id": "0183/a04"
@@ -8459,7 +8459,7 @@
           "id": "18/0183a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0168_head_02",
           "id": "0183/a04"
@@ -8473,7 +8473,7 @@
           "id": "18/0183b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0168_head_03",
           "id": "0183/a04"
@@ -8490,12 +8490,12 @@
     }
   },
   "cos0169": {
-    "name": "\u30b9\u30ce\u30fc\u30af\u30ea\u30b9\u30bf\u30eb\u30fb\u30b3\u30fc\u30c8",
+    "name": "スノークリスタル・コート",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1638252000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "unique_head": {
           "bundle": "cos0169_unique_head",
           "id": "01/0182"
@@ -8513,7 +8513,7 @@
           "id": "01/0182n"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "unique_head": {
           "bundle": "cos0169_unique_head_01",
           "id": "01/0182a"
@@ -8527,7 +8527,7 @@
           "id": "0182/a02"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "unique_head": {
           "bundle": "cos0169_unique_head_02",
           "id": "01/0182b"
@@ -8541,7 +8541,7 @@
           "id": "0182/a02"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "unique_head": {
           "bundle": "cos0169_unique_head_03",
           "id": "01/0182c"
@@ -8558,12 +8558,12 @@
     }
   },
   "cos0170": {
-    "name": "\u30ac\u30fc\u30ea\u30fc\u30c1\u30a7\u30c3\u30af\u30ac\u30fc\u30eb",
+    "name": "ガーリーチェックガール",
     "gender": "Female",
     "rarity": "Normal",
     "time": 1638284400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0170_head",
           "id": "0177/a05"
@@ -8573,7 +8573,7 @@
           "id": "99/0177"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0170_head_01",
           "id": "0177/a05"
@@ -8583,7 +8583,7 @@
           "id": "99/0177"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0170_head_02",
           "id": "0177/a05"
@@ -8593,7 +8593,7 @@
           "id": "99/0177"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0170_head_03",
           "id": "0177/a05"
@@ -8611,7 +8611,7 @@
     "rarity": "Normal",
     "time": 1638284400000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0171_head",
           "id": "0176/a05"
@@ -8621,7 +8621,7 @@
           "id": "99/0176"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0171_head_01",
           "id": "0176/a05"
@@ -8631,7 +8631,7 @@
           "id": "99/0176"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0171_head_02",
           "id": "0176/a05"
@@ -8641,7 +8641,7 @@
           "id": "99/0176"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0171_head_03",
           "id": "0176/a05"
@@ -8654,12 +8654,12 @@
     }
   },
   "cos0172": {
-    "name": "\u30b9\u30a4\u30fc\u30c8\u30af\u30a4\u30fc\u30f3\u30c9\u30ec\u30b9",
+    "name": "スイートクイーンドレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1639116000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0172_head",
           "id": "0178/a03"
@@ -8673,7 +8673,7 @@
           "id": "05/0178"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0172_head_01",
           "id": "0178/a03"
@@ -8687,7 +8687,7 @@
           "id": "05/0178a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0172_head_02",
           "id": "0178/a03"
@@ -8701,7 +8701,7 @@
           "id": "05/0178b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0172_head_03",
           "id": "0178/a03"
@@ -8718,12 +8718,12 @@
     }
   },
   "cos0173": {
-    "name": "\u30e9\u30d6\u30ea\u30fc\u30eb\u30fc\u30af\u30c9\u30ec\u30b9",
+    "name": "ラブリールークドレス",
     "gender": "Female",
     "rarity": "Rare",
     "time": 1639116000000,
     "3d": {
-      "\u30aa\u30ea\u30b8\u30ca\u30eb": {
+      "オリジナル": {
         "head": {
           "bundle": "cos0173_head",
           "id": "0179/a02"
@@ -8737,7 +8737,7 @@
           "id": "07/0179"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc1": {
+      "アナザー1": {
         "head": {
           "bundle": "cos0173_head_01",
           "id": "0179/a02"
@@ -8751,7 +8751,7 @@
           "id": "07/0179a"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc2": {
+      "アナザー2": {
         "head": {
           "bundle": "cos0173_head_02",
           "id": "0179/a02"
@@ -8765,7 +8765,7 @@
           "id": "07/0179b"
         }
       },
-      "\u30a2\u30ca\u30b6\u30fc3": {
+      "アナザー3": {
         "head": {
           "bundle": "cos0173_head_03",
           "id": "0179/a02"
