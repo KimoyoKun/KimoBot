@@ -4,6 +4,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -36,6 +37,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -68,6 +70,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -100,6 +103,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -132,6 +136,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -164,6 +169,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -196,6 +202,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -228,6 +235,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -260,6 +268,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -292,6 +301,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -324,6 +334,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -360,6 +371,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -396,6 +408,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -410,6 +423,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -428,6 +442,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -442,6 +457,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -460,6 +476,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -474,6 +491,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "nezuki",
     "3d": {
       "オリジナル": {
         "head": {
@@ -510,6 +528,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "apapico",
     "3d": {
       "オリジナル": {
         "body": {
@@ -542,6 +561,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "村上ゆいち",
     "3d": {
       "オリジナル": {
         "head": {
@@ -590,6 +610,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "森倉円",
     "3d": {
       "オリジナル": {
         "head": {
@@ -638,6 +659,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "BUZZ",
     "3d": {
       "オリジナル": {
         "head": {
@@ -686,6 +708,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "たま",
     "3d": {
       "オリジナル": {
         "head": {
@@ -734,6 +757,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "たま",
     "3d": {
       "オリジナル": {
         "body": {
@@ -766,6 +790,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "TNSK",
     "3d": {
       "オリジナル": {
         "head": {
@@ -814,6 +839,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "TNSK",
     "3d": {
       "オリジナル": {
         "head": {
@@ -850,6 +876,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "日々花",
     "3d": {
       "オリジナル": {
         "head": {
@@ -868,6 +895,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "Ei-Flow",
     "3d": {
       "オリジナル": {
         "body": {
@@ -882,6 +910,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "unique_head": {
@@ -918,6 +947,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -982,6 +1012,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1030,6 +1061,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": -1,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1062,6 +1094,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "Rella",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1110,6 +1143,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1602223200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1174,6 +1208,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1602223200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1238,6 +1273,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1603173600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1302,6 +1338,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1603173600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1366,6 +1403,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1604124000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1414,6 +1452,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1604124000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1446,6 +1485,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1604156400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1494,6 +1534,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1604156400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1542,6 +1583,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1604901600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1590,6 +1632,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1604901600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1634,6 +1677,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1605765600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1698,6 +1742,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1605765600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1762,6 +1807,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1606716000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1794,6 +1840,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1606716000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1842,6 +1889,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1606748400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -1890,6 +1938,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1606748400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1922,6 +1971,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1607580000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -1970,6 +2020,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1607580000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -2002,6 +2053,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1608444000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2066,6 +2118,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1608444000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2130,6 +2183,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1608735600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2178,6 +2232,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1608735600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2226,6 +2281,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1609426800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2274,6 +2330,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1609426800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2322,6 +2379,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1609426800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2370,6 +2428,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1609426800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2418,6 +2477,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1609394400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -2466,6 +2526,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1609394400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -2498,6 +2559,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1610258400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2562,6 +2624,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1610258400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -2610,6 +2673,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1611208800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2674,6 +2738,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1611208800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2738,6 +2803,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1612072800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -2770,6 +2836,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1612072800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -2802,6 +2869,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1612105200000,
+    "design": "アザカ",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2850,6 +2918,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1612105200000,
+    "design": "こむ",
     "3d": {
       "オリジナル": {
         "head": {
@@ -2898,6 +2967,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1612850400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -2946,6 +3016,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1612850400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -2994,6 +3065,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1613628000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3034,6 +3106,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1613628000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3074,6 +3147,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1614492000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3142,6 +3216,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1614492000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3210,6 +3285,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1614524400000,
+    "design": "レヅキ",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3258,6 +3334,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1614524400000,
+    "design": "わいん",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3306,6 +3383,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1615356000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3370,6 +3448,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1615356000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3434,6 +3513,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1616392800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3498,6 +3578,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1616392800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3562,6 +3643,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1617202800000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3610,6 +3692,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1617202800000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3658,6 +3741,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1617084000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3726,6 +3810,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1617084000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3794,6 +3879,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1617202800000,
+    "design": "千寿",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3842,6 +3928,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1617202800000,
+    "design": "Dove",
     "3d": {
       "オリジナル": {
         "head": {
@@ -3890,6 +3977,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1617256800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "unique_head": {
@@ -3954,6 +4042,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1617256800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4018,6 +4107,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1618120800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4082,6 +4172,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1618120800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4146,6 +4237,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1618984800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4210,6 +4302,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1618984800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4274,6 +4367,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1619762400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "unique_head": {
@@ -4314,6 +4408,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1619762400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4382,6 +4477,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1619794800000,
+    "design": "桃タルト",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4430,6 +4526,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1619794800000,
+    "design": "てん",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4478,6 +4575,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1620626400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4542,6 +4640,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1620626400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4606,6 +4705,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1621576800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4670,6 +4770,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1621576800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4734,6 +4835,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1622440800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -4770,6 +4872,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1622440800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -4806,6 +4909,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1622473200000,
+    "design": "KOJIN",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4854,6 +4958,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1622473200000,
+    "design": "へぼ",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4902,6 +5007,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1623391200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -4966,6 +5072,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1623391200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5030,6 +5137,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1624255200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5094,6 +5202,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1624255200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5158,6 +5267,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625032800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5226,6 +5336,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625032800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5294,6 +5405,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625032800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5358,6 +5470,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625032800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5422,6 +5535,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1625065200000,
+    "design": "いわき",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5470,6 +5584,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1625065200000,
+    "design": "不知丸",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5518,6 +5633,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625810400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5582,6 +5698,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1625810400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5646,6 +5763,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1626760800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "unique_head": {
@@ -5710,6 +5828,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1626760800000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5774,6 +5893,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1627711200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5842,6 +5962,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1627711200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5910,6 +6031,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1627743600000,
+    "design": "ndr",
     "3d": {
       "オリジナル": {
         "head": {
@@ -5958,6 +6080,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1627743600000,
+    "design": "あさしら",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6006,6 +6129,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1628575200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6070,6 +6194,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1628575200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6134,6 +6259,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1629439200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6198,6 +6324,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1629439200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6262,6 +6389,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1630389600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6330,6 +6458,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1630389600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6398,6 +6527,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1630422000000,
+    "design": "DECO",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6446,6 +6576,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1630422000000,
+    "design": "コチュジャンのもの",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6494,6 +6625,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1631253600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "unique_head": {
@@ -6558,6 +6690,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1631253600000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6622,6 +6755,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1632204000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6686,6 +6820,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1632204000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6750,6 +6885,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633014000000,
+    "design": "ふわ太",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6798,6 +6934,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1633014000000,
+    "design": "隊長",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6846,6 +6983,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633068000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -6914,6 +7052,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633068000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "body": {
@@ -6950,6 +7089,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633068000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7018,6 +7158,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633068000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7086,6 +7227,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1633068000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7154,6 +7296,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633068000000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7202,6 +7345,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1633068000000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7250,6 +7394,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633154400000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7298,6 +7443,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633240800000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7346,6 +7492,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633327200000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7394,6 +7541,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1633327200000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7442,6 +7590,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633413600000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7490,6 +7639,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1633413600000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7538,6 +7688,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1633500000000,
+    "design": "iXima",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7586,6 +7737,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1633932000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7650,6 +7802,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1633932000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7714,6 +7867,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1634796000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7778,6 +7932,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1634796000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7842,6 +7997,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1635487200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7890,6 +8046,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1635487200000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -7938,6 +8095,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1635660000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8006,6 +8164,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1635660000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8074,6 +8233,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1635692400000,
+    "design": "ヒイノ",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8122,6 +8282,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1635692400000,
+    "design": "へいわ",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8170,6 +8331,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1636610400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8234,6 +8396,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1636610400000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8298,6 +8461,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1637388000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8362,6 +8526,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1637388000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8426,6 +8591,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1638252000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8494,6 +8660,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1638252000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "unique_head": {
@@ -8562,6 +8729,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1638284400000,
+    "design": "どこかののの",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8610,6 +8778,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1638284400000,
+    "design": "コゲ",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8658,6 +8827,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1639116000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
@@ -8722,6 +8892,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1639116000000,
+    "design": "-",
     "3d": {
       "オリジナル": {
         "head": {
