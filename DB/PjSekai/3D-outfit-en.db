@@ -4,6 +4,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -36,6 +37,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -68,6 +70,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -100,6 +103,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -132,6 +136,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -164,6 +169,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -196,6 +202,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -228,6 +235,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -260,6 +268,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -292,6 +301,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -324,6 +334,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -360,6 +371,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -396,6 +408,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -410,6 +423,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -428,6 +442,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -442,6 +457,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -460,6 +476,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -474,6 +491,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "nezuki",
     "3d": {
       "Default": {
         "head": {
@@ -510,6 +528,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "apapico",
     "3d": {
       "Default": {
         "body": {
@@ -542,6 +561,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "村上ゆいち",
     "3d": {
       "Default": {
         "head": {
@@ -590,6 +610,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "森倉円",
     "3d": {
       "Default": {
         "head": {
@@ -638,6 +659,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "BUZZ",
     "3d": {
       "Default": {
         "head": {
@@ -686,6 +708,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "たま",
     "3d": {
       "Default": {
         "head": {
@@ -734,6 +757,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "たま",
     "3d": {
       "Default": {
         "body": {
@@ -766,6 +790,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "TNSK",
     "3d": {
       "Default": {
         "head": {
@@ -814,6 +839,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "TNSK",
     "3d": {
       "Default": {
         "head": {
@@ -850,6 +876,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "unique_head": {
@@ -886,6 +913,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -950,6 +978,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -998,6 +1027,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1030,6 +1060,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "Rella",
     "3d": {
       "Default": {
         "head": {
@@ -1078,6 +1109,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1639004400000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -1142,6 +1174,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1639004400000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -1206,6 +1239,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1639695600000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -1270,6 +1304,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1639695600000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -1334,6 +1369,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1640386800000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1382,6 +1418,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1640386800000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1414,6 +1451,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1641024000000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -1462,6 +1500,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1641024000000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -1510,6 +1549,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1641769200000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1558,6 +1598,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1641769200000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1602,6 +1643,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1642460400000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -1666,6 +1708,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1642460400000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -1730,6 +1773,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1641078000000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1762,6 +1806,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1641078000000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1810,6 +1855,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1646121600000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -1858,6 +1904,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1646121600000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1890,6 +1937,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1643151600000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1938,6 +1986,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1643151600000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -1970,6 +2019,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1646953200000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2034,6 +2084,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1646953200000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2098,6 +2149,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1640332800000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2146,6 +2198,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1640332800000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2194,6 +2247,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1641024000000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2242,6 +2296,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1641024000000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2290,6 +2345,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": 1643702400000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2338,6 +2394,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": 1643702400000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2386,6 +2443,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1646953200000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -2434,6 +2492,7 @@
     "gender": "Male",
     "rarity": "Rare",
     "time": 1646953200000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -2466,6 +2525,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1646953200000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2530,6 +2590,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1646953200000,
+    "design": "-",
     "3d": {
       "Default": {
         "body": {
@@ -2578,6 +2639,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1646953200000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2642,6 +2704,7 @@
     "gender": "Female",
     "rarity": "Rare",
     "time": 1646953200000,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2706,6 +2769,7 @@
     "gender": "Female",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
@@ -2754,6 +2818,7 @@
     "gender": "Male",
     "rarity": "Normal",
     "time": -1,
+    "design": "-",
     "3d": {
       "Default": {
         "head": {
