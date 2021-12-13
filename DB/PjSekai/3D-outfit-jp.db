@@ -2913,55 +2913,6 @@
       }
     }
   },
-  "cos0069": {
-    "name": "パステルアイスクリーム",
-    "gender": "Male",
-    "rarity": "Normal",
-    "time": 1612105200000,
-    "design": "こむ",
-    "3d": {
-      "オリジナル": {
-        "head": {
-          "bundle": "cos0069_head",
-          "id": "0081/a02"
-        },
-        "body": {
-          "bundle": "cos0069_body",
-          "id": "99/0081"
-        }
-      },
-      "アナザー1": {
-        "head": {
-          "bundle": "cos0069_head_01",
-          "id": "0081/a02"
-        },
-        "body": {
-          "bundle": "cos0069_body_01",
-          "id": "99/0081"
-        }
-      },
-      "アナザー2": {
-        "head": {
-          "bundle": "cos0069_head_02",
-          "id": "0081/a02"
-        },
-        "body": {
-          "bundle": "cos0069_body_02",
-          "id": "99/0081"
-        }
-      },
-      "アナザー3": {
-        "head": {
-          "bundle": "cos0069_head_03",
-          "id": "0081/a02"
-        },
-        "body": {
-          "bundle": "cos0069_body_03",
-          "id": "99/0081"
-        }
-      }
-    }
-  },
   "cos0070": {
     "name": "ロッキン・ビースト",
     "gender": "Female",
