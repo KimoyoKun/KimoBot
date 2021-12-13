@@ -1,4 +1,37 @@
 {
+  "cos0001": {
+    "name": "スクールロック",
+    "gender": "Female",
+    "rarity": "Normal",
+    "time": -1,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "body": {
+          "bundle": "cos0001_body",
+          "id": "99/0001"
+        }
+      },
+      "アナザー1": {
+        "body": {
+          "bundle": "cos0001_body_01",
+          "id": "99/0001"
+        }
+      },
+      "アナザー2": {
+        "body": {
+          "bundle": "cos0001_body_02",
+          "id": "99/0001"
+        }
+      },
+      "アナザー3": {
+        "body": {
+          "bundle": "cos0001_body_03",
+          "id": "99/0001"
+        }
+      }
+    }
+  },
   "cos0002": {
     "name": "スクールロック",
     "gender": "Male",
@@ -8968,6 +9001,165 @@
         "body": {
           "bundle": "cos0174_body_03",
           "id": "99/0184"
+        }
+      }
+    }
+  },
+  "cos0175": {
+    "name": "ルシフェニア王国・召使の装い",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1639375200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0175_unique_head",
+          "id": "23/0185"
+        },
+        "body": {
+          "bundle": "cos0175_body",
+          "id": "99/0185"
+        },
+        "unique_hair": {
+          "bundle": "cos0175_unique_hair",
+          "id": "23/0185n"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0175_unique_head_01",
+          "id": "23/0185a"
+        },
+        "body": {
+          "bundle": "cos0175_body_01",
+          "id": "99/0185"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0175_unique_head_02",
+          "id": "23/0185b"
+        },
+        "body": {
+          "bundle": "cos0175_body_02",
+          "id": "99/0185"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0175_unique_head_03",
+          "id": "23/0185c"
+        },
+        "body": {
+          "bundle": "cos0175_body_03",
+          "id": "99/0185"
+        }
+      }
+    }
+  },
+  "cos0176": {
+    "name": "血塗られた狂気の装い",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1639375200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0176_unique_head",
+          "id": "24/0188"
+        },
+        "body": {
+          "bundle": "cos0176_body",
+          "id": "99/0188"
+        },
+        "unique_hair": {
+          "bundle": "cos0176_unique_hair",
+          "id": "24/0188n"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0176_unique_head_01",
+          "id": "24/0188a"
+        },
+        "body": {
+          "bundle": "cos0176_body_01",
+          "id": "99/0188"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0176_unique_head_02",
+          "id": "24/0188b"
+        },
+        "body": {
+          "bundle": "cos0176_body_02",
+          "id": "99/0188"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0176_unique_head_03",
+          "id": "24/0188c"
+        },
+        "body": {
+          "bundle": "cos0176_body_03",
+          "id": "99/0188"
+        }
+      }
+    }
+  },
+  "cos0177": {
+    "name": "女領主の妖艶な装い",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1639375200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0177_unique_head",
+          "id": "25/0186"
+        },
+        "body": {
+          "bundle": "cos0177_body",
+          "id": "99/0186"
+        },
+        "unique_hair": {
+          "bundle": "cos0177_unique_hair",
+          "id": "25/0186n"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0177_unique_head_01",
+          "id": "25/0186a"
+        },
+        "body": {
+          "bundle": "cos0177_body_01",
+          "id": "99/0186"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0177_unique_head_02",
+          "id": "25/0186b"
+        },
+        "body": {
+          "bundle": "cos0177_body_02",
+          "id": "99/0186"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0177_unique_head_03",
+          "id": "25/0186c"
+        },
+        "body": {
+          "bundle": "cos0177_body_03",
+          "id": "99/0186"
         }
       }
     }
