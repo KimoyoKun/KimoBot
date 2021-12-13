@@ -8887,6 +8887,283 @@
       }
     }
   },
+  "cos0173": {
+    "name": "ラブリールークドレス",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1639116000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0173_head",
+          "id": "0179/a02"
+        },
+        "body": {
+          "bundle": "cos0173_body",
+          "id": "99/0179"
+        },
+        "unique_head": {
+          "bundle": "cos0173_unique_head",
+          "id": "07/0179"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0173_head_01",
+          "id": "0179/a02"
+        },
+        "body": {
+          "bundle": "cos0173_body_01",
+          "id": "99/0179"
+        },
+        "unique_head": {
+          "bundle": "cos0173_unique_head_01",
+          "id": "07/0179a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0173_head_02",
+          "id": "0179/a02"
+        },
+        "body": {
+          "bundle": "cos0173_body_02",
+          "id": "99/0179"
+        },
+        "unique_head": {
+          "bundle": "cos0173_unique_head_02",
+          "id": "07/0179b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0173_head_03",
+          "id": "0179/a02"
+        },
+        "body": {
+          "bundle": "cos0173_body_03",
+          "id": "99/0179"
+        },
+        "unique_head": {
+          "bundle": "cos0173_unique_head_03",
+          "id": "07/0179c"
+        }
+      }
+    }
+  },
+  "cos0174": {
+    "name": "ルシフェニア王国・王女の正装",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1639375200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0174_unique_head",
+          "id": "22/0184"
+        },
+        "body": {
+          "bundle": "cos0174_body",
+          "id": "99/0184"
+        },
+        "unique_hair": {
+          "bundle": "cos0174_unique_hair",
+          "id": "22/0184n"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0174_unique_head_01",
+          "id": "22/0184a"
+        },
+        "body": {
+          "bundle": "cos0174_body_01",
+          "id": "99/0184"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0174_unique_head_02",
+          "id": "22/0184b"
+        },
+        "body": {
+          "bundle": "cos0174_body_02",
+          "id": "99/0184"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0174_unique_head_03",
+          "id": "22/0184c"
+        },
+        "body": {
+          "bundle": "cos0174_body_03",
+          "id": "99/0184"
+        }
+      }
+    }
+  },
+  "cos0175": {
+    "name": "ルシフェニア王国・召使の装い",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1639375200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0175_unique_head",
+          "id": "23/0185"
+        },
+        "body": {
+          "bundle": "cos0175_body",
+          "id": "99/0185"
+        },
+        "unique_hair": {
+          "bundle": "cos0175_unique_hair",
+          "id": "23/0185n"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0175_unique_head_01",
+          "id": "23/0185a"
+        },
+        "body": {
+          "bundle": "cos0175_body_01",
+          "id": "99/0185"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0175_unique_head_02",
+          "id": "23/0185b"
+        },
+        "body": {
+          "bundle": "cos0175_body_02",
+          "id": "99/0185"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0175_unique_head_03",
+          "id": "23/0185c"
+        },
+        "body": {
+          "bundle": "cos0175_body_03",
+          "id": "99/0185"
+        }
+      }
+    }
+  },
+  "cos0176": {
+    "name": "血塗られた狂気の装い",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1639375200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0176_unique_head",
+          "id": "24/0188"
+        },
+        "body": {
+          "bundle": "cos0176_body",
+          "id": "99/0188"
+        },
+        "unique_hair": {
+          "bundle": "cos0176_unique_hair",
+          "id": "24/0188n"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0176_unique_head_01",
+          "id": "24/0188a"
+        },
+        "body": {
+          "bundle": "cos0176_body_01",
+          "id": "99/0188"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0176_unique_head_02",
+          "id": "24/0188b"
+        },
+        "body": {
+          "bundle": "cos0176_body_02",
+          "id": "99/0188"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0176_unique_head_03",
+          "id": "24/0188c"
+        },
+        "body": {
+          "bundle": "cos0176_body_03",
+          "id": "99/0188"
+        }
+      }
+    }
+  },
+  "cos0177": {
+    "name": "女領主の妖艶な装い",
+    "gender": "Female",
+    "rarity": "Rare",
+    "time": 1639375200000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0177_unique_head",
+          "id": "25/0186"
+        },
+        "body": {
+          "bundle": "cos0177_body",
+          "id": "99/0186"
+        },
+        "unique_hair": {
+          "bundle": "cos0177_unique_hair",
+          "id": "25/0186n"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0177_unique_head_01",
+          "id": "25/0186a"
+        },
+        "body": {
+          "bundle": "cos0177_body_01",
+          "id": "99/0186"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0177_unique_head_02",
+          "id": "25/0186b"
+        },
+        "body": {
+          "bundle": "cos0177_body_02",
+          "id": "99/0186"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0177_unique_head_03",
+          "id": "25/0186c"
+        },
+        "body": {
+          "bundle": "cos0177_body_03",
+          "id": "99/0186"
+        }
+      }
+    }
+  },
   "cos0178": {
     "name": "USE暗星庁・裁判官の装い",
     "gender": "Male",
