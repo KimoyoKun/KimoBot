@@ -32,39 +32,6 @@
       }
     }
   },
-  "cos0002": {
-    "name": "スクールロック",
-    "gender": "Male",
-    "rarity": "Normal",
-    "time": -1,
-    "design": "-",
-    "3d": {
-      "オリジナル": {
-        "body": {
-          "bundle": "cos0002_body",
-          "id": "99/0002"
-        }
-      },
-      "アナザー1": {
-        "body": {
-          "bundle": "cos0002_body_01",
-          "id": "99/0002"
-        }
-      },
-      "アナザー2": {
-        "body": {
-          "bundle": "cos0002_body_02",
-          "id": "99/0002"
-        }
-      },
-      "アナザー3": {
-        "body": {
-          "bundle": "cos0002_body_03",
-          "id": "99/0002"
-        }
-      }
-    }
-  },
   "cos0003": {
     "name": "メロディクローバー",
     "gender": "Female",
