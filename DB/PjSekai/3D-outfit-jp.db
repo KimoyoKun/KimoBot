@@ -9200,5 +9200,135 @@
         }
       }
     }
+  },
+  "cos0179": {
+    "name": "ウィンターキャンプジャケット",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1639980000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "head": {
+          "bundle": "cos0179_head",
+          "id": "0190/a04"
+        },
+        "body": {
+          "bundle": "cos0179_body",
+          "id": "99/0190"
+        },
+        "unique_head": {
+          "bundle": "cos0179_unique_head",
+          "id": "12/0190"
+        }
+      },
+      "アナザー1": {
+        "head": {
+          "bundle": "cos0179_head_01",
+          "id": "0190/a04"
+        },
+        "body": {
+          "bundle": "cos0179_body_01",
+          "id": "99/0190"
+        },
+        "unique_head": {
+          "bundle": "cos0179_unique_head_01",
+          "id": "12/0190a"
+        }
+      },
+      "アナザー2": {
+        "head": {
+          "bundle": "cos0179_head_02",
+          "id": "0190/a04"
+        },
+        "body": {
+          "bundle": "cos0179_body_02",
+          "id": "99/0190"
+        },
+        "unique_head": {
+          "bundle": "cos0179_unique_head_02",
+          "id": "12/0190b"
+        }
+      },
+      "アナザー3": {
+        "head": {
+          "bundle": "cos0179_head_03",
+          "id": "0190/a04"
+        },
+        "body": {
+          "bundle": "cos0179_body_03",
+          "id": "99/0190"
+        },
+        "unique_head": {
+          "bundle": "cos0179_unique_head_03",
+          "id": "12/0190c"
+        }
+      }
+    }
+  },
+  "cos0180": {
+    "name": "オータムキャンプジャケット",
+    "gender": "Male",
+    "rarity": "Rare",
+    "time": 1639980000000,
+    "design": "-",
+    "3d": {
+      "オリジナル": {
+        "unique_head": {
+          "bundle": "cos0180_unique_head",
+          "id": "11/0189"
+        },
+        "body": {
+          "bundle": "cos0180_body",
+          "id": "99/0189"
+        },
+        "head": {
+          "bundle": "cos0180_head",
+          "id": "0189/a04"
+        }
+      },
+      "アナザー1": {
+        "unique_head": {
+          "bundle": "cos0180_unique_head_01",
+          "id": "11/0189a"
+        },
+        "body": {
+          "bundle": "cos0180_body_01",
+          "id": "99/0189"
+        },
+        "head": {
+          "bundle": "cos0180_head_01",
+          "id": "0189/a04"
+        }
+      },
+      "アナザー2": {
+        "unique_head": {
+          "bundle": "cos0180_unique_head_02",
+          "id": "11/0189b"
+        },
+        "body": {
+          "bundle": "cos0180_body_02",
+          "id": "99/0189"
+        },
+        "head": {
+          "bundle": "cos0180_head_02",
+          "id": "0189/a04"
+        }
+      },
+      "アナザー3": {
+        "unique_head": {
+          "bundle": "cos0180_unique_head_03",
+          "id": "11/0189c"
+        },
+        "body": {
+          "bundle": "cos0180_body_03",
+          "id": "99/0189"
+        },
+        "head": {
+          "bundle": "cos0180_head_03",
+          "id": "0189/a04"
+        }
+      }
+    }
   }
 }
