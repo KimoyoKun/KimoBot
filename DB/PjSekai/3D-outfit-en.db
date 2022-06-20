@@ -1507,7 +1507,7 @@
     },
     "cos0020": {
       "name": "Flower Fairy",
-      "designer": "村上ゆいち",
+      "designer": "\u6751\u4e0a\u3086\u3044\u3061",
       "published": null,
       "rarity": "normal",
       "how": null,
@@ -1716,7 +1716,7 @@
     },
     "cos0021": {
       "name": "Rose Cage",
-      "designer": "森倉円",
+      "designer": "\u68ee\u5009\u5186",
       "published": null,
       "rarity": "normal",
       "how": null,
@@ -2134,7 +2134,7 @@
     },
     "cos0023": {
       "name": "Starry Silks",
-      "designer": "たま",
+      "designer": "\u305f\u307e",
       "published": null,
       "rarity": "normal",
       "how": null,
@@ -2343,7 +2343,7 @@
     },
     "cos0024": {
       "name": "Starry Silks",
-      "designer": "たま",
+      "designer": "\u305f\u307e",
       "published": null,
       "rarity": "normal",
       "how": null,
@@ -2676,7 +2676,7 @@
     },
     "cos0027": {
       "name": "Cheerful Chick Dress",
-      "designer": "日々花",
+      "designer": "\u65e5\u3005\u82b1",
       "published": 1654628400000,
       "rarity": "normal",
       "how": "Jun. 2022 Campaign Gift",
@@ -4843,7 +4843,7 @@
       "designer": null,
       "published": 1641769200000,
       "rarity": "rare",
-      "how": "Reach Mastery Rank 5 with Sprint! Relay Anchor☆ Emu Otori.",
+      "how": "Reach Mastery Rank 5 with Sprint! Relay Anchor\u2606 Emu Otori.",
       "asset": "99/0047",
       "shop": {
         "available": true,
@@ -6284,7 +6284,7 @@
       }
     },
     "cos0052": {
-      "name": "Wonder☆Santa Girl",
+      "name": "Wonder\u2606Santa Girl",
       "designer": null,
       "published": 1643842800000,
       "rarity": "rare",
@@ -6502,7 +6502,7 @@
       "designer": null,
       "published": 1643842800000,
       "rarity": "rare",
-      "how": "Reach Mastery Rank 5 with Wonder☆Christmas Hatsune Miku.",
+      "how": "Reach Mastery Rank 5 with Wonder\u2606Christmas Hatsune Miku.",
       "asset": "99/0058",
       "shop": {
         "available": true,
@@ -8360,7 +8360,7 @@
       "designer": null,
       "published": 1645916400000,
       "rarity": "rare",
-      "how": "Reach Mastery Rank 5 with A New Member Arrives♪ Megurine Luka.",
+      "how": "Reach Mastery Rank 5 with A New Member Arrives\u266a Megurine Luka.",
       "asset": "99/0056",
       "shop": {
         "available": true,
@@ -9255,7 +9255,7 @@
       "cards": {
         "171": {
           "image": "res022_no006",
-          "phrase": "A smiley face and lots of sparkles☆"
+          "phrase": "A smiley face and lots of sparkles\u2606"
         }
       },
       "pattern": {
