@@ -22181,6 +22181,44 @@
         "3": "\u5176\u4ed6\u984f\u82722",
         "4": "\u5176\u4ed6\u984f\u82723"
       }
+    },
+    "cos01012": {
+      "name": "Happy Anniversary Miku 2022",
+      "designer": null,
+      "published": 1661842800000,
+      "rarity": "normal",
+      "how": null,
+      "asset": "99/1012",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        21
+      ],
+      "id": [
+        908001,
+        908002,
+        908003,
+        908004,
+        908005,
+        908006,
+        908007,
+        908008
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
     }
   }
 ]
