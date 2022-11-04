@@ -15464,6 +15464,44 @@
         "4": "\uc5b4\ub098\ub354 3"
       }
     },
+    "cos01019": {
+      "name": "Happy Anniversary Meiko 2022",
+      "designer": null,
+      "published": 1667541600000,
+      "rarity": "normal",
+      "how": "MEIKO \uae30\ub150\uc77c \ud55c\uc815 \ubbf8\uc158",
+      "asset": "99/1019",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        25
+      ],
+      "id": [
+        915001,
+        915002,
+        915003,
+        915004,
+        915005,
+        915006,
+        915007,
+        915008
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\uc624\ub9ac\uc9c0\ub110",
+        "2": "\uc5b4\ub098\ub354 1",
+        "3": "\uc5b4\ub098\ub354 2",
+        "4": "\uc5b4\ub098\ub354 3"
+      }
+    },
     "cos01018": {
       "name": "\ucd08\ucf5c\ub9bf \uacfc\uc790 \ucf58\uc149\ud2b8(\uc5ec\uc131\uc6a9) ",
       "designer": null,
