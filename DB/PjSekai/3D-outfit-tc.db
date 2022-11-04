@@ -26717,6 +26717,44 @@
         "3": "\u5176\u4ed6\u984f\u82722",
         "4": "\u5176\u4ed6\u984f\u82723"
       }
+    },
+    "cos01019": {
+      "name": "Happy Anniversary Meiko 2022",
+      "designer": null,
+      "published": 1667545200000,
+      "rarity": "normal",
+      "how": null,
+      "asset": "99/1019",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        25
+      ],
+      "id": [
+        915001,
+        915002,
+        915003,
+        915004,
+        915005,
+        915006,
+        915007,
+        915008
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
     }
   }
 ]
