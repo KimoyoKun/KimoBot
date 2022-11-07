@@ -20049,7 +20049,7 @@
     "cos0133": {
       "name": "Braveful Heart",
       "designer": null,
-      "published": 1662760800000,
+      "published": 1631314800000,
       "rarity": "rare",
       "how": "Reach Mastery Rank 5 with Conversing Through Sound Alone KAITO.",
       "asset": "99/0146",
@@ -20119,7 +20119,11 @@
         133045,
         133046,
         133047,
-        133048
+        133048,
+        133049,
+        133050,
+        133051,
+        133052
       ],
       "cards": {
         "280": {
