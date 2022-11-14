@@ -13584,6 +13584,136 @@
         "4": "\uc5b4\ub098\ub354 3"
       }
     },
+    "cos0102": {
+      "name": "\ud2b8\ub77c\uc6c0 \uc2f1\uc5b4 \ud131\uc2dc\ub3c4",
+      "designer": null,
+      "published": 1668405600000,
+      "rarity": "rare",
+      "how": "'[\uadf8\ub300\uc5d0\uac8c \ubc14\uce58\ub294 \uc0ac\ub791 \ub178\ub798] \uc544\uc624\uc57c\uae30 \ud1a0\uc6b0\uc57c'\n\ub9c8\uc2a4\ud130 \ub7ad\ud06c 2 \ub2ec\uc131",
+      "asset": "99/0119",
+      "shop": {
+        "available": true,
+        "published": 1668405600000
+      },
+      "3d": {
+        "body": true,
+        "head": false,
+        "head_unique": false,
+        "hair_unique": true
+      },
+      "character": [
+        11,
+        12,
+        13,
+        16,
+        23,
+        26
+      ],
+      "id": [
+        102002,
+        102004,
+        102006,
+        102008,
+        102010,
+        102012,
+        102014,
+        102016,
+        102018,
+        102020,
+        102022,
+        102024,
+        102026,
+        102028,
+        102030,
+        102032,
+        102034,
+        102036,
+        102038,
+        102040,
+        102042,
+        102044,
+        102046,
+        102048,
+        102049
+      ],
+      "cards": {
+        "227": {
+          "image": "res012_no010",
+          "phrase": "\ubd80\ub514\u2014\u2014 \uc81c \uc190\uc744 \uc7a1\uc544 \uc8fc\uc138\uc694."
+        }
+      },
+      "pattern": {
+        "1": "\uc624\ub9ac\uc9c0\ub110",
+        "2": "\uc5b4\ub098\ub354 1",
+        "3": "\uc5b4\ub098\ub354 2",
+        "4": "\uc5b4\ub098\ub354 3"
+      }
+    },
+    "cos0103": {
+      "name": "\ube14\ub77c\uc6b0 \ub85c\uc81c \ud131\uc2dc\ub3c4",
+      "designer": null,
+      "published": 1668405600000,
+      "rarity": "rare",
+      "how": "'[\ud310\ud0c0\uc2a4\ud2f1 \ud50c\ub798\ub108] \uce74\ubbf8\uc2dc\ub85c \ub8e8\uc774'\n\ub9c8\uc2a4\ud130 \ub7ad\ud06c\ub97c 2 \ub2ec\uc131",
+      "asset": "99/0118",
+      "shop": {
+        "available": true,
+        "published": 1668405600000
+      },
+      "3d": {
+        "body": true,
+        "head": false,
+        "head_unique": false,
+        "hair_unique": true
+      },
+      "character": [
+        11,
+        12,
+        13,
+        16,
+        23,
+        26
+      ],
+      "id": [
+        103002,
+        103004,
+        103006,
+        103008,
+        103010,
+        103012,
+        103014,
+        103016,
+        103018,
+        103020,
+        103022,
+        103024,
+        103026,
+        103028,
+        103030,
+        103032,
+        103034,
+        103036,
+        103038,
+        103040,
+        103042,
+        103044,
+        103046,
+        103048,
+        103049
+      ],
+      "cards": {
+        "228": {
+          "image": "res016_no010",
+          "phrase": "\uc9c0\uae08\ubd80\ud130 \uacc4\ud68d\uc744 \uc0b4\uc9dd \ubcc0\uacbd\ud55c\ub2e4!"
+        }
+      },
+      "pattern": {
+        "1": "\uc624\ub9ac\uc9c0\ub110",
+        "2": "\uc5b4\ub098\ub354 1",
+        "3": "\uc5b4\ub098\ub354 2",
+        "4": "\uc5b4\ub098\ub354 3"
+      }
+    },
     "cos0158": {
       "name": "\ud38c\ud504\ud0a8 \ub9c8\uc870\ub9ac\ub290",
       "designer": null,
