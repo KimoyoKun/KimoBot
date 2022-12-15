@@ -26231,6 +26231,222 @@
         "3": "Variant 2",
         "4": "Variant 3"
       }
+    },
+    "cos0174": {
+      "name": "Lucifenia Kingdom's Princess' Formal Dress",
+      "designer": null,
+      "published": 1671058800000,
+      "rarity": "rare",
+      "how": "Reach Mastery Rank 2 with The Arrogant Princess Kagamine Rin.",
+      "asset": "99/0184",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": false,
+        "head_unique": true,
+        "hair_unique": true
+      },
+      "character": [
+        22
+      ],
+      "id": [
+        174137,
+        174138,
+        174139,
+        174140,
+        174141,
+        174142,
+        174143,
+        174144,
+        174161
+      ],
+      "cards": {
+        "335": {
+          "image": "res022_no013",
+          "phrase": "Now, bow before me."
+        }
+      },
+      "pattern": {
+        "1": "Default",
+        "2": "Variant 1",
+        "3": "Variant 2",
+        "4": "Variant 3"
+      }
+    },
+    "cos0175": {
+      "name": "Lucifenia Kingdom's Servant Attire",
+      "designer": null,
+      "published": 1671058800000,
+      "rarity": "rare",
+      "how": "Reach Mastery Rank 2 with The Twin Servant Kagamine Len.",
+      "asset": "99/0185",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": false,
+        "head_unique": true,
+        "hair_unique": true
+      },
+      "character": [
+        23
+      ],
+      "id": [
+        175033,
+        175034,
+        175035,
+        175036,
+        175037,
+        175038,
+        175039,
+        175040,
+        175049
+      ],
+      "cards": {
+        "336": {
+          "image": "res023_no013",
+          "phrase": "For you, I shall become pure evil."
+        }
+      },
+      "pattern": {
+        "1": "Default",
+        "2": "Variant 1",
+        "3": "Variant 2",
+        "4": "Variant 3"
+      }
+    },
+    "cos0176": {
+      "name": "Bloodstained Insanity Dress",
+      "designer": null,
+      "published": 1671058800000,
+      "rarity": "rare",
+      "how": "Reach Mastery Rank 2 with The Madly Envious Tailor Megurine Luka.",
+      "asset": "99/0188",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": false,
+        "head_unique": true,
+        "hair_unique": true
+      },
+      "character": [
+        24
+      ],
+      "id": [
+        176145,
+        176146,
+        176147,
+        176148,
+        176149,
+        176150,
+        176151,
+        176152,
+        176161
+      ],
+      "cards": {
+        "337": {
+          "image": "res024_no014",
+          "phrase": "Back to work..."
+        }
+      },
+      "pattern": {
+        "1": "Default",
+        "2": "Variant 1",
+        "3": "Variant 2",
+        "4": "Variant 3"
+      }
+    },
+    "cos0177": {
+      "name": "Female Duke's Bewitching Dress",
+      "designer": null,
+      "published": 1671058800000,
+      "rarity": "rare",
+      "how": "Reach Mastery Rank 2 with The Evil Food Eater MEIKO.",
+      "asset": "99/0186",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": false,
+        "head_unique": true,
+        "hair_unique": true
+      },
+      "character": [
+        25
+      ],
+      "id": [
+        177153,
+        177154,
+        177155,
+        177156,
+        177157,
+        177158,
+        177159,
+        177160,
+        177161
+      ],
+      "cards": {
+        "338": {
+          "image": "res025_no015",
+          "phrase": "You are not to leave a single crumb."
+        }
+      },
+      "pattern": {
+        "1": "Default",
+        "2": "Variant 1",
+        "3": "Variant 2",
+        "4": "Variant 3"
+      }
+    },
+    "cos0178": {
+      "name": "USE Dark Star Bureau's Judge Attire",
+      "designer": null,
+      "published": 1671058800000,
+      "rarity": "rare",
+      "how": "Reach Mastery Rank 2 with The Greedy Judge KAITO.",
+      "asset": "99/0187",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": false,
+        "head_unique": false,
+        "hair_unique": true
+      },
+      "character": [
+        26
+      ],
+      "id": [
+        178042,
+        178044,
+        178046,
+        178048,
+        178049
+      ],
+      "cards": {
+        "339": {
+          "image": "res026_no013",
+          "phrase": "All rise..."
+        }
+      },
+      "pattern": {
+        "1": "Default",
+        "2": "Variant 1",
+        "3": "Variant 2",
+        "4": "Variant 3"
+      }
     }
   }
 ]
