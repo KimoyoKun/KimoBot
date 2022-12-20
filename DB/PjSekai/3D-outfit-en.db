@@ -26447,6 +26447,182 @@
         "3": "Variant 2",
         "4": "Variant 3"
       }
+    },
+    "cos0179": {
+      "name": "Winter Camp Jacket",
+      "designer": null,
+      "published": 1671577200000,
+      "rarity": "rare",
+      "how": "Reach Mastery Rank 5 with Outdoor Cooking! Toya Aoyagi.",
+      "asset": "99/0190",
+      "shop": {
+        "available": true,
+        "published": 1671577200000
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": true,
+        "hair_unique": false
+      },
+      "character": [
+        11,
+        12,
+        13,
+        16,
+        23,
+        26
+      ],
+      "id": [
+        179001,
+        179002,
+        179003,
+        179004,
+        179005,
+        179006,
+        179007,
+        179008,
+        179009,
+        179010,
+        179011,
+        179012,
+        179013,
+        179014,
+        179015,
+        179016,
+        179017,
+        179018,
+        179019,
+        179020,
+        179021,
+        179022,
+        179023,
+        179024,
+        179025,
+        179026,
+        179027,
+        179028,
+        179029,
+        179030,
+        179031,
+        179032,
+        179033,
+        179034,
+        179035,
+        179036,
+        179037,
+        179038,
+        179039,
+        179040,
+        179041,
+        179042,
+        179043,
+        179044,
+        179045,
+        179046,
+        179047,
+        179048
+      ],
+      "cards": {
+        "341": {
+          "image": "res012_no013",
+          "phrase": "Shiraishi, I did it! They're all chopped...!"
+        }
+      },
+      "pattern": {
+        "1": "Default",
+        "2": "Variant 1",
+        "3": "Variant 2",
+        "4": "Variant 3"
+      }
+    },
+    "cos0180": {
+      "name": "Autumn Camp Jacket",
+      "designer": null,
+      "published": 1671577200000,
+      "rarity": "rare",
+      "how": "Reach Mastery Rank 5 with A Winter Evening Chat Akito Shinonome.",
+      "asset": "99/0189",
+      "shop": {
+        "available": true,
+        "published": 1671577200000
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": true,
+        "hair_unique": false
+      },
+      "character": [
+        11,
+        12,
+        13,
+        16,
+        23,
+        26
+      ],
+      "id": [
+        180001,
+        180002,
+        180003,
+        180004,
+        180005,
+        180006,
+        180007,
+        180008,
+        180009,
+        180010,
+        180011,
+        180012,
+        180013,
+        180014,
+        180015,
+        180016,
+        180017,
+        180018,
+        180019,
+        180020,
+        180021,
+        180022,
+        180023,
+        180024,
+        180025,
+        180026,
+        180027,
+        180028,
+        180029,
+        180030,
+        180031,
+        180032,
+        180033,
+        180034,
+        180035,
+        180036,
+        180037,
+        180038,
+        180039,
+        180040,
+        180041,
+        180042,
+        180043,
+        180044,
+        180045,
+        180046,
+        180047,
+        180048
+      ],
+      "cards": {
+        "342": {
+          "image": "res011_no012",
+          "phrase": "It's nice to relax every so often."
+        }
+      },
+      "pattern": {
+        "1": "Default",
+        "2": "Variant 1",
+        "3": "Variant 2",
+        "4": "Variant 3"
+      }
     }
   }
 ]
