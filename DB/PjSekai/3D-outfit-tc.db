@@ -28117,6 +28117,82 @@
         "3": "\u5176\u4ed6\u984f\u82722",
         "4": "\u5176\u4ed6\u984f\u82723"
       }
+    },
+    "cos01021": {
+      "name": "Happy Anniversary Rin 2022",
+      "designer": null,
+      "published": 1672038000000,
+      "rarity": "normal",
+      "how": "\u901a\u904e[2022/12/26 ~ 2023/1/5]\u9650\u6642\u4efb\u52d9\u7372\u53d6\u3002",
+      "asset": "99/1021",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        22
+      ],
+      "id": [
+        920001,
+        920002,
+        920003,
+        920004,
+        920005,
+        920006,
+        920007,
+        920008
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
+    },
+    "cos01020": {
+      "name": "Happy Anniversary Len 2022",
+      "designer": null,
+      "published": 1672038000000,
+      "rarity": "normal",
+      "how": "\u901a\u904e[2022/12/26 ~ 2023/1/5]\u9650\u6642\u4efb\u52d9\u7372\u53d6\u3002",
+      "asset": "99/1020",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        23
+      ],
+      "id": [
+        921001,
+        921002,
+        921003,
+        921004,
+        921005,
+        921006,
+        921007,
+        921008
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
     }
   }
 ]
