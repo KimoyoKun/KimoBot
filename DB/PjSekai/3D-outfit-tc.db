@@ -28968,6 +28968,234 @@
         "4": "\u5176\u4ed6\u984f\u82723"
       }
     },
+    "cos0201": {
+      "name": "SNOW MIKU 2022\uff08\u521d\u97f3\u672a\u4f86\uff09",
+      "designer": "\u3067\u3064",
+      "published": 1674198000000,
+      "rarity": "normal",
+      "how": "\u7531[SNOW MIKU 2022]\u9ad8\u7d1a\u79ae\u7269\u62db\u52df\u5165\u624b\u3002",
+      "asset": "99/0200",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        21
+      ],
+      "id": [
+        201129,
+        201130,
+        201131,
+        201132,
+        201133,
+        201134,
+        201135,
+        201136
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
+    },
+    "cos0202": {
+      "name": "SNOW MIKU 2022\uff08\u93e1\u97f3\u9234\uff09",
+      "designer": "\u3067\u3064",
+      "published": 1674198000000,
+      "rarity": "normal",
+      "how": "\u7531[SNOW MIKU 2022]\u9ad8\u7d1a\u79ae\u7269\u62db\u52df\u5165\u624b\u3002",
+      "asset": "99/0201",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        22
+      ],
+      "id": [
+        202137,
+        202138,
+        202139,
+        202140,
+        202141,
+        202142,
+        202143,
+        202144
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
+    },
+    "cos0203": {
+      "name": "SNOW MIKU 2022\uff08\u93e1\u97f3\u9023\uff09",
+      "designer": "\u3067\u3064",
+      "published": 1674198000000,
+      "rarity": "normal",
+      "how": "\u7531[SNOW MIKU 2022]\u9ad8\u7d1a\u79ae\u7269\u62db\u52df\u5165\u624b\u3002",
+      "asset": "99/0202",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        23
+      ],
+      "id": [
+        203033,
+        203034,
+        203035,
+        203036,
+        203037,
+        203038,
+        203039,
+        203040
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
+    },
+    "cos0204": {
+      "name": "SNOW MIKU 2022\uff08\u5de1\u97f3\u6d41\u6b4c\uff09",
+      "designer": "\u3067\u3064",
+      "published": 1674198000000,
+      "rarity": "normal",
+      "how": "\u7531[SNOW MIKU 2022]\u9ad8\u7d1a\u79ae\u7269\u62db\u52df\u5165\u624b\u3002",
+      "asset": "99/0203",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        24
+      ],
+      "id": [
+        204145,
+        204146,
+        204147,
+        204148,
+        204149,
+        204150,
+        204151,
+        204152
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
+    },
+    "cos0205": {
+      "name": "SNOW MIKU 2022\uff08MIEKO\uff09",
+      "designer": "\u3067\u3064",
+      "published": 1674198000000,
+      "rarity": "normal",
+      "how": "\u7531[SNOW MIKU 2022]\u9ad8\u7d1a\u79ae\u7269\u62db\u52df\u5165\u624b\u3002",
+      "asset": "99/0204",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        25
+      ],
+      "id": [
+        205153,
+        205154,
+        205155,
+        205156,
+        205157,
+        205158,
+        205159,
+        205160
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
+    },
+    "cos0206": {
+      "name": "SNOW MIKU 2022\uff08KAITO\uff09",
+      "designer": "\u3067\u3064",
+      "published": 1674198000000,
+      "rarity": "normal",
+      "how": "\u7531[SNOW MIKU 2022]\u9ad8\u7d1a\u79ae\u7269\u62db\u52df\u5165\u624b\u3002",
+      "asset": "99/0205",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        26
+      ],
+      "id": [
+        206041,
+        206042,
+        206043,
+        206044,
+        206045,
+        206046,
+        206047,
+        206048
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272",
+        "2": "\u5176\u4ed6\u984f\u82721",
+        "3": "\u5176\u4ed6\u984f\u82722",
+        "4": "\u5176\u4ed6\u984f\u82723"
+      }
+    },
     "cos01001": {
       "name": "\u65d7\u888d\uff08\u5973\u6027\uff09",
       "designer": null,
