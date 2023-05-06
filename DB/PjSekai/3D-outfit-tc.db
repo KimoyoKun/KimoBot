@@ -23419,12 +23419,7 @@
         157319,
         157320
       ],
-      "cards": {
-        "302": {
-          "image": "res014_no013",
-          "phrase": "\u4eba\u5bb6\u7d55\u5c0d\u6703\u8df3\u904e\u53bb\uff01"
-        }
-      },
+      "cards": {},
       "pattern": {
         "1": "\u539f\u7248\u984f\u8272",
         "2": "\u5176\u4ed6\u984f\u82721",
@@ -33704,6 +33699,64 @@
       "id": [
         235041,
         235042
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272"
+      }
+    },
+    "cos0245": {
+      "name": "Hip-Hoppin\u2019 candy cat",
+      "designer": "tokiwa.",
+      "published": 1682870400000,
+      "rarity": "normal",
+      "how": "\u900f\u904e[2023/5/1\uff5e2023/5/31]LIVE\u4efb\u52d9\u7372\u5f97\u3002",
+      "asset": "99/0245",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        19
+      ],
+      "id": [
+        245113,
+        245114
+      ],
+      "cards": {},
+      "pattern": {
+        "1": "\u539f\u7248\u984f\u8272"
+      }
+    },
+    "cos0246": {
+      "name": "MIKU MIKU POP!",
+      "designer": "\u4e0d\u77e5\u4e38",
+      "published": 1682870400000,
+      "rarity": "normal",
+      "how": "\u900f\u904e[2023/5/1\uff5e2023/5/31]LIVE\u4efb\u52d9\u7372\u5f97\u3002",
+      "asset": "99/0244",
+      "shop": {
+        "available": false,
+        "published": null
+      },
+      "3d": {
+        "body": true,
+        "head": true,
+        "head_unique": false,
+        "hair_unique": false
+      },
+      "character": [
+        11
+      ],
+      "id": [
+        246001,
+        246002
       ],
       "cards": {},
       "pattern": {
